@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=823997:206:CHANNEL:IMAGE:png&w=400" tvg-id="BXS" tvg-chno="218" tvg-name="BoxSets" channel-id="118",BoxSets FOX
+plugin://plugin.video.foxtel.go/?_=play&id=823997&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=675260:206:CHANNEL:IMAGE:png&w=400" tvg-id="IOI" tvg-chno="201" tvg-name="TV H!TS" channel-id="101",TV H!TS FOX
+plugin://plugin.video.foxtel.go/?_=play&id=675260&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=256570:206:CHANNEL:IMAGE:png&w=400" tvg-id="UKT" tvg-chno="205" tvg-name="UKTV" channel-id="105",UKTV FOX
+plugin://plugin.video.foxtel.go/?_=play&id=256570&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264107:206:CHANNEL:IMAGE:png&w=400" tvg-id="LST" tvg-chno="206" tvg-name="LifeStyle" channel-id="106",LifeStyle FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264107&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=256579:206:CHANNEL:IMAGE:png&w=400" tvg-id="FOX" tvg-chno="208" tvg-name="FOX8" channel-id="108",FOX8 FOX
+plugin://plugin.video.foxtel.go/?_=play&id=256579&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=680970:206:CHANNEL:IMAGE:png&w=400" tvg-id="HIT" tvg-chno="211" tvg-name="111 funny" channel-id="111",111 funny FOX
+plugin://plugin.video.foxtel.go/?_=play&id=680970&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=263960:206:CHANNEL:IMAGE:png&w=400" tvg-id="ARN" tvg-chno="212" tvg-name="Arena" channel-id="112",Arena FOX
+plugin://plugin.video.foxtel.go/?_=play&id=263960&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264105:206:CHANNEL:IMAGE:png&w=400" tvg-id="HAL" tvg-chno="214" tvg-name="Universal TV" channel-id="114",Universal TV FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264105&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=504731:206:CHANNEL:IMAGE:png&w=400" tvg-id="SHC" tvg-chno="215" tvg-name="FOX SHOWCASE" channel-id="115",FOX SHOWCASE FOX
+plugin://plugin.video.foxtel.go/?_=play&id=504731&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=766500:206:CHANNEL:IMAGE:png&w=400" tvg-id="BSF" tvg-chno="216" tvg-name="BBC First" channel-id="116",BBC First FOX
+plugin://plugin.video.foxtel.go/?_=play&id=766500&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264094:206:CHANNEL:IMAGE:png&w=400" tvg-id="S13" tvg-chno="217" tvg-name="13th Street" channel-id="117",13th Street FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264094&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=1494484:206:CHANNEL:IMAGE:png&w=400" tvg-id="BNB" tvg-chno="219" tvg-name="Binge" channel-id="119",Binge FOX
+plugin://plugin.video.foxtel.go/?_=play&id=1494484&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=263961:206:CHANNEL:IMAGE:png&w=400" tvg-id="COM" tvg-chno="221" tvg-name="Comedy Channel" channel-id="121",Comedy Channel FOX
+plugin://plugin.video.foxtel.go/?_=play&id=263961&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=675257:206:CHANNEL:IMAGE:png&w=400" tvg-id="PSI" tvg-chno="223" tvg-name="Syfy" channel-id="123",Syfy FOX
+plugin://plugin.video.foxtel.go/?_=play&id=675257&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=570985:206:CHANNEL:IMAGE:png&w=400" tvg-id="MTV" tvg-chno="224" tvg-name="MTV" channel-id="124",MTV FOX
+plugin://plugin.video.foxtel.go/?_=play&id=570985&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264103:206:CHANNEL:IMAGE:png&w=400" tvg-id="ETV" tvg-chno="225" tvg-name="E!" channel-id="125",E! FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264103&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264111:206:CHANNEL:IMAGE:png&w=400" tvg-id="TSN" tvg-chno="226" tvg-name="The Style Network" channel-id="126",The Style Network FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264111&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264109:206:CHANNEL:IMAGE:png&w=400" tvg-id="FOD" tvg-chno="227" tvg-name="LifeStyle Food" channel-id="127",LifeStyle Food FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264109&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=465979:206:CHANNEL:IMAGE:png&w=400" tvg-id="LHO" tvg-chno="228" tvg-name="LifeStyle Home" channel-id="128",LifeStyle Home FOX
+plugin://plugin.video.foxtel.go/?_=play&id=465979&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264120:206:CHANNEL:IMAGE:png&w=400" tvg-id="CV2" tvg-chno="240" tvg-name="[V]" channel-id="801",[V] FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264120&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=1585034:206:CHANNEL:IMAGE:png&w=400" tvg-id="TMF" tvg-chno="241" tvg-name="MTV Music" channel-id="803",MTV Music FOX
+plugin://plugin.video.foxtel.go/?_=play&id=1585034&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=1585033:206:CHANNEL:IMAGE:png&w=400" tvg-id="VH1" tvg-chno="242" tvg-name="MTV Dance" channel-id="804",MTV Dance FOX
+plugin://plugin.video.foxtel.go/?_=play&id=1585033&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264121:206:CHANNEL:IMAGE:png&w=400" tvg-id="MMX" tvg-chno="243" tvg-name="MAX" channel-id="805",MAX FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264121&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=2119802:206:CHANNEL:IMAGE:png&w=400" tvg-id="HAR" tvg-chno="244" tvg-name="Smooth/Arts" channel-id="806",Smooth/Arts FOX
+plugin://plugin.video.foxtel.go/?_=play&id=2119802&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=549770:206:CHANNEL:IMAGE:png&w=400" tvg-id="CMC" tvg-chno="245" tvg-name="CMC" channel-id="815",CMC FOX
+plugin://plugin.video.foxtel.go/?_=play&id=549770&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=263956:206:CHANNEL:IMAGE:png&w=400" tvg-id="AES" tvg-chno="222" tvg-name="A&E" channel-id="122",A&E FOX
+plugin://plugin.video.foxtel.go/?_=play&id=263956&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=506664:206:CHANNEL:IMAGE:png&w=400" tvg-id="DTA" tvg-chno="230" tvg-name="TLC" channel-id="130",TLC FOX
+plugin://plugin.video.foxtel.go/?_=play&id=506664&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264100:206:CHANNEL:IMAGE:png&w=400" tvg-id="HST" tvg-chno="231" tvg-name="HISTORY" channel-id="608",History FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264100&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264099:206:CHANNEL:IMAGE:png&w=400" tvg-id="CIN" tvg-chno="232" tvg-name="Crime + Investigation Network" channel-id="609",Crime & Investigation FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264099&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=263959:206:CHANNEL:IMAGE:png&w=400" tvg-id="DIS" tvg-chno="233" tvg-name="Discovery Channel" channel-id="612",Discovery Channel FOX
+plugin://plugin.video.foxtel.go/?_=play&id=263959&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=263957:206:CHANNEL:IMAGE:png&w=400" tvg-id="NGE" tvg-chno="234" tvg-name="National Geographic" channel-id="613",National Geographic FOX
+plugin://plugin.video.foxtel.go/?_=play&id=263957&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=263958:206:CHANNEL:IMAGE:png&w=400" tvg-id="BBK" tvg-chno="235" tvg-name="BBC Earth" channel-id="614",BBC Earth FOX
+plugin://plugin.video.foxtel.go/?_=play&id=263958&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=506669:206:CHANNEL:IMAGE:png&w=400" tvg-id="DSC" tvg-chno="236" tvg-name="Discovery Science" channel-id="616",Discovery Science FOX
+plugin://plugin.video.foxtel.go/?_=play&id=506669&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=504387:206:CHANNEL:IMAGE:png&w=400" tvg-id="DIT" tvg-chno="237" tvg-name="Discovery Turbo" channel-id="620",Discovery Turbo FOX
+plugin://plugin.video.foxtel.go/?_=play&id=504387&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400" tvg-id="ANI" tvg-chno="238" tvg-name="Animal Planet" channel-id="621",Animal Planet FOX
+plugin://plugin.video.foxtel.go/?_=play&id=506663&media_type=1&_l=.pvr
+#EXTINF:-1 group-title="FOX" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=264113:206:CHANNEL:IMAGE:png&w=400" tvg-id="NGW" tvg-chno="239" tvg-name="Nat Geo WILD" channel-id="622",Nat Geo Wild FOX
+plugin://plugin.video.foxtel.go/?_=play&id=264113&media_type=1&_l=.pvr
