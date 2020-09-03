@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="tv.101406040645" tvg-logo="https://i.mjh.nz/.images/tv.101406040645.png" tvg-chno="10",TEN
+https://i.mjh.nz/au/Brisbane/tv.101406040645.m3u8
+
+#EXTINF:-1 tvg-id="tv.101406040648" tvg-logo="https://i.mjh.nz/.images/tv.101406040648.png" tvg-chno="11",10 Peach
+https://i.mjh.nz/au/Brisbane/tv.101406040648.m3u8
+
+#EXTINF:-1 tvg-id="tv.101406040641" tvg-logo="https://i.mjh.nz/.images/tv.101406040641.png" tvg-chno="12",10 Bold
+https://i.mjh.nz/au/Brisbane/tv.101406040641.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305040540" tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-chno="7",Seven
+https://i.mjh.nz/au/Brisbane/tv.101305040540.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305040543" tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-chno="73",7mate
+https://i.mjh.nz/au/Brisbane/tv.101305040543.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305040545" tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-chno="76",7flix
+https://i.mjh.nz/au/Brisbane/tv.101305040545.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305040542" tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-chno="72",7TWO
+https://i.mjh.nz/au/Brisbane/tv.101305040542.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" tvg-chno="32",SBS World Movies
+https://i.mjh.nz/au/Brisbane/tv.320203000307.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" tvg-chno="31",SBS VICELAND
+https://i.mjh.nz/au/Brisbane/tv.320203000303.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" tvg-chno="33",SBS Food
+https://i.mjh.nz/au/Brisbane/tv.320203000304.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" tvg-chno="3",SBS
+https://i.mjh.nz/au/Brisbane/tv.320203000301.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" tvg-chno="34",NITV
+https://i.mjh.nz/au/Brisbane/tv.320203000305.m3u8
+
+#EXTINF:-1 tvg-id="tv.101204000401" tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-chno="9",Channel 9
+https://i.mjh.nz/au/Brisbane/tv.101204000401.m3u8
+
+#EXTINF:-1 tvg-id="tv.10120400040C" tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png", tvg-chno="96"9Rush Brisbane
+https://i.mjh.nz/au/Brisbane/tv.10120400040C.m3u8
+
+#EXTINF:-1 tvg-id="tv.101204000407" tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-chno="94",9Life
+https://i.mjh.nz/au/Brisbane/tv.101204000407.m3u8
+
+#EXTINF:-1 tvg-id="tv.10120400040B" tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-chno="93",9Go!
+https://i.mjh.nz/au/Brisbane/tv.10120400040B.m3u8
+
+#EXTINF:-1 tvg-id="tv.10120400040A" tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-chno="92",9Gem
+https://i.mjh.nz/au/Brisbane/tv.10120400040A.m3u8
+
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" tvg-chno="24",ABC News
+https://c.mjh.nz/101002210220/
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" tvg-chno="23",ABC Me
+https://c.mjh.nz/101002210224/
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" tvg-chno="22",ABC KIDS
+https://c.mjh.nz/101002210222/
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" tvg-chno="22",ABC Comedy
+https://c.mjh.nz/abc2/
+
+#EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/.images/tv.101002410241.png" tvg-chno="2",ABC
+https://c.mjh.nz/101002410241/
