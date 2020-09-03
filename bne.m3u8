@@ -39,7 +39,7 @@ https://i.mjh.nz/au/Brisbane/tv.320203000305.m3u8
 #EXTINF:-1 tvg-id="tv.101204000401" tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-chno="9",Channel 9
 https://i.mjh.nz/au/Brisbane/tv.101204000401.m3u8
 
-#EXTINF:-1 tvg-id="tv.10120400040C" tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png", tvg-chno="96"9Rush Brisbane
+#EXTINF:-1 tvg-id="tv.10120400040C" tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png", tvg-chno="96",9Rush Brisbane
 https://i.mjh.nz/au/Brisbane/tv.10120400040C.m3u8
 
 #EXTINF:-1 tvg-id="tv.101204000407" tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-chno="94",9Life
