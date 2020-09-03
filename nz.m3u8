@@ -12,9 +12,6 @@ https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" tvg-chno="104",Bravo
 https://i.mjh.nz/nz/tv.12.m3u8
 
-#EXTINF:-1 tvg-id="tv.13" tvg-logo="https://i.mjh.nz/.images/tv.13.png" tvg-chno="105",Māori Television
-https://i.mjh.nz/nz/tv.13.m3u8
-
 #EXTINF:-1 tvg-id="tv.28" tvg-logo="https://i.mjh.nz/.images/tv.28.png" tvg-chno="110",PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
 
@@ -30,44 +27,5 @@ https://i.mjh.nz/nz/tv.55.m3u8
 #EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="114",BREEZE TV
 https://i.mjh.nz/nz/tv.68.m3u8
 
-#EXTINF:-1 tvg-id="tv.20" tvg-logo="https://i.mjh.nz/.images/tv.20.png" tvg-chno="115",Te Reo
-https://i.mjh.nz/nz/tv.20.m3u8
-
-#EXTINF:-1 tvg-id="tv.46" tvg-logo="https://i.mjh.nz/.images/tv.46.png" tvg-chno="116",Al Jazeera
-https://i.mjh.nz/nz/tv.46.m3u8
-
 #EXTINF:-1 tvg-id="tv.58" tvg-logo="https://i.mjh.nz/.images/tv.58.png" tvg-chno="117",HGTV
 https://i.mjh.nz/nz/tv.58.m3u8
-
-#EXTINF:-1 tvg-id="tv.45" tvg-logo="https://i.mjh.nz/.images/tv.45.png" tvg-chno="120",TVSN Shopping
-https://i.mjh.nz/nz/tv.45.m3u8
-
-#EXTINF:-1 tvg-id="tv.7" tvg-logo="https://i.mjh.nz/.images/tv.7.png" tvg-chno="125",Shine TV
-https://i.mjh.nz/nz/tv.7.m3u8
-
-#EXTINF:-1 tvg-id="tv.39" tvg-logo="https://i.mjh.nz/.images/tv.39.png" tvg-chno="126",Firstlight
-https://i.mjh.nz/nz/tv.39.m3u8
-
-#EXTINF:-1 tvg-id="tv.56" tvg-logo="https://i.mjh.nz/.images/tv.56.png" tvg-chno="127",Hope Channel
-https://i.mjh.nz/nz/tv.56.m3u8
-
-#EXTINF:-1 tvg-id="tv.21" tvg-logo="https://i.mjh.nz/.images/tv.21.png" tvg-chno="128",Chinese TV28
-https://i.mjh.nz/nz/tv.21.m3u8
-
-#EXTINF:-1 tvg-id="tv.36" tvg-logo="https://i.mjh.nz/.images/tv.36.png" tvg-chno="129",Chinese TV29
-https://i.mjh.nz/nz/tv.36.m3u8
-
-#EXTINF:-1 tvg-id="tv.18" tvg-logo="https://i.mjh.nz/.images/tv.18.png" tvg-chno="131",Parliament TV
-https://i.mjh.nz/nz/tv.18.m3u8
-
-#EXTINF:-1 tvg-id="tv.49" tvg-logo="https://i.mjh.nz/.images/tv.49.png" tvg-chno="136",APNA Television
-https://i.mjh.nz/nz/tv.49.m3u8
-
-#EXTINF:-1 tvg-id="tv.63" tvg-logo="https://i.mjh.nz/.images/tv.63.png" tvg-chno="137",Panda TV
-https://i.mjh.nz/nz/tv.63.m3u8
-
-#EXTINF:-1 tvg-id="tv.60" tvg-logo="https://i.mjh.nz/.images/tv.60.png" tvg-chno="141",Wairarapa TV
-https://i.mjh.nz/nz/tv.60.m3u8
-
-#EXTINF:-1 tvg-id="tv.66" tvg-logo="https://i.mjh.nz/.images/tv.66.png" tvg-chno="199",Kordia TV
-https://i.mjh.nz/nz/tv.66.m3u8
