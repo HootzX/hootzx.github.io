@@ -3,360 +3,360 @@
 #EXTINF:-1,ABC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer6.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDE6MjMgUE0maGFzaF92YWx1ZT1ZQk1jeDkrZzYybGJ1WlJIQlpwK3RBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer6.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,AMC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDI6NDAgUE0maGFzaF92YWx1ZT0zMkdGNmxabmR4VzAxWCtMdnZzYStBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,ANIMAL PLANET
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDI6NTQgUE0maGFzaF92YWx1ZT1ueno2Tnc2QWZlU2tLZ3dLZ3BreGV3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,BBC AMERICA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f5.ustvgo.org/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDM6MDQgUE0maGFzaF92YWx1ZT1MYk16VDFVTXU0cUVtbW0yMHRoaWtnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f5.ustvgo.org/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,BIG TEN NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f3.ustvgo.org/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDM6MTQgUE0maGFzaF92YWx1ZT0vUUxnbzd4Tlo4UzQrWVhWUUJCWXFBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f3.ustvgo.org/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,BOOMERANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDQ6MjIgUE0maGFzaF92YWx1ZT1VbFNmVk04YWJJRzJhdXJLMThwYldnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,BRAVO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer7.ustv24h.live/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDQ6MzYgUE0maGFzaF92YWx1ZT11TjFBZm1jQldQNUcxMHUyejRXS0dBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer7.ustv24h.live/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDQ6NDYgUE0maGFzaF92YWx1ZT0rMVR6MmhsWkNoVUlkNTBpUW1DVmxBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CBS SPORTS NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDQ6NTkgUE0maGFzaF92YWx1ZT1ZVUhrNUlZdGhYQjVJeUtXbk5zVE93PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CINEMAX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1hQUFaSVVQUkgzNCtqM2RpNVZIczdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CMT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDU6MjYgUE0maGFzaF92YWx1ZT13MlM2Y0J1bjArd3ZxdDlyYXNOWEd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CARTOON NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDU6MzUgUE0maGFzaF92YWx1ZT1sTFBHYWVXckgzbUxVaThjVlBqODBRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CNBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer6.ustv24h.live/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDU6NDYgUE0maGFzaF92YWx1ZT00bkhZRjMwdndZUjRVd1Y3aE40dTlRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer6.ustv24h.live/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,CNN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer6.ustv24h.live/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDU6NTUgUE0maGFzaF92YWx1ZT1OWWNBSjRTaW1WdnlZRCt3dDQ3a1lBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer6.ustv24h.live/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,COMEDY CENTRAL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDY6MDUgUE0maGFzaF92YWx1ZT1rUjlFUnhJdVBYVzBkbWJPekNiY1dBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,THE CW
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer7.ustv24h.live/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDY6MTYgUE0maGFzaF92YWx1ZT1ERHpKRm1Wa25kN3lVSTc5aTQwZHl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer7.ustv24h.live/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,DESTINATION AMERICA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer7.ustv24h.live/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDY6MjUgUE0maGFzaF92YWx1ZT1ha25vc0lsMGVBWHBqSlM1Y083aCt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer7.ustv24h.live/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,DISNEY
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDc6MjggUE0maGFzaF92YWx1ZT0zaWxCaUlWbDdYcDY2eGh3UHlYbGV3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,DISNEYJR
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDc6MzggUE0maGFzaF92YWx1ZT05R0dVWjBQNUtYbTJkb2h3ZTNhWGF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,DISNEYXD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer1.ustv24h.live/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDc6NTIgUE0maGFzaF92YWx1ZT1KS2tSUTJYeHFWV0Z0di9abzBhUzNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer1.ustv24h.live/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,DIY
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDg6MDIgUE0maGFzaF92YWx1ZT02YW53WUI4UUdLRm9hSVVyNEcwRTh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,EONLINE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDg6MTEgUE0maGFzaF92YWx1ZT1sYUhXT3l1RjFrVEhhTGtTeEdDS3FnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,ESPN2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDk6MTcgUE0maGFzaF92YWx1ZT1zNjloZlpqdWlBWk5ZeC8rN0lHMWlRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,ESPNU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer3.ustv24h.live/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDk6MjYgUE0maGFzaF92YWx1ZT1OaW9tNkdzdmtoeWV1b2FDTTNpa3RnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer3.ustv24h.live/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,ESPNEWS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f4.ustvgo.org/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDk6MzUgUE0maGFzaF92YWx1ZT1EMjZSS0tJVkZ4VGxoMGdLa1ZFcUZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f4.ustvgo.org/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FOOD NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f4.ustvgo.org/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDk6NDUgUE0maGFzaF92YWx1ZT1kUHB1VGpNZWlwdVZLanNQa3M5c013PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f4.ustvgo.org/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FOX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f4.ustvgo.org/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MDk6NTQgUE0maGFzaF92YWx1ZT00NHlJT3pnY0NkeHFlQlFXblFnckhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f4.ustvgo.org/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FOX BUSINESS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer6.ustv24h.live/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTA6MDMgUE0maGFzaF92YWx1ZT1ZM3Z1WEVkY1d2UVdyQnNIOElpTS9RPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer6.ustv24h.live/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FOX NEWS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer6.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTA6MTIgUE0maGFzaF92YWx1ZT1kcGNMcThlZm81RFNtNlZabjJLT2NBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer6.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FREEFORM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f3.ustvgo.org/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTA6MjEgUE0maGFzaF92YWx1ZT1FWEJDakRPeUdZd2wrVGlhWDRKdFB3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f3.ustvgo.org/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FOX SPORTS 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTE6MjUgUE0maGFzaF92YWx1ZT1BbklwNHdFUmJ2VERxWWN1UFRqaHR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTE6MzUgUE0maGFzaF92YWx1ZT1yRHUwSGVhdVY5NmF4c01aWUpRaVlnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FXM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTE6NDQgUE0maGFzaF92YWx1ZT1EQWQwOHFnd3RNTVdZM3lacFhybGJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,FXX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTE6NTQgUE0maGFzaF92YWx1ZT1nN3FpTnd0aGNYUGFXZGlQNEk1NkN3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,GSN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f3.ustvgo.org/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTM6MDIgUE0maGFzaF92YWx1ZT1ZcFlwcjFxM3NRMHowMlcxN1FOOFZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f3.ustvgo.org/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,HALLMARK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer1.ustv24h.live/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTM6MTIgUE0maGFzaF92YWx1ZT0vekNXSVF6RVNWZzRkL1lIelBNR1pRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer1.ustv24h.live/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,HGTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTQ6MTUgUE0maGFzaF92YWx1ZT1IREREN0hUZ055TFlDRFczK2Q2M3NRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,HLN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f5.ustvgo.org/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTU6MTkgUE0maGFzaF92YWx1ZT1xSm9YRkxBYklCRTFyS280c1g5LzV3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f5.ustvgo.org/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,HALLMARK MOVIES MYSTERIES
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer2.ustv24h.live/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTU6MjkgUE0maGFzaF92YWx1ZT1rNWVBaUJkZkxodW9UWUQweEYrZDhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer2.ustv24h.live/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,LIFETIME
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f4.ustvgo.org/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTY6MzMgUE0maGFzaF92YWx1ZT14RHJKRFNFa3VCUHRXVjJLMHg5bkF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f4.ustvgo.org/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,LIFETIME MOVIES
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f4.ustvgo.org/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTY6NDMgUE0maGFzaF92YWx1ZT1UN0FQaHRIbldMMC9pOVIzbkpaM0NnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f4.ustvgo.org/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,MLB NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f2.ustvgo.org/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTY6NTMgUE0maGFzaF92YWx1ZT1KSVBjRm5TSW9IdnBNdkJvS2NxRktBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f2.ustvgo.org/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,MOTORTREND
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTc6MDIgUE0maGFzaF92YWx1ZT1Gb0NuWmNXNGUyRS9wMEpSRllZelhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,MSNBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer6.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTc6MTMgUE0maGFzaF92YWx1ZT12UmM2bFR0MHRSR3k1V01wRkVpNUdRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer6.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,MTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f2.ustvgo.org/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTc6MjcgUE0maGFzaF92YWx1ZT1DOW5jb0sxNkdPc0JEN3Q2VVhxK1NBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f2.ustvgo.org/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,NAT GEO WILD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTg6MzAgUE0maGFzaF92YWx1ZT1DUEthN0hDVllDNUtjQnI2UXJkNnJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,NBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f3.ustvgo.org/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTk6MzQgUE0maGFzaF92YWx1ZT1NQXVrbjlzZENlaVJBRTlad0J0clR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f3.ustvgo.org/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,NBC SPORTS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTk6NDQgUE0maGFzaF92YWx1ZT1LOFozTEVIV0pRL0N3U0htd0gwVHhBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,NFL NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer2.ustv24h.live/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MTk6NDQgUE0maGFzaF92YWx1ZT1LOFozTEVIV0pRL0N3U0htd0gwVHhBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer2.ustv24h.live/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,NICKELODEON
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer1.ustv24h.live/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjA6MDggUE0maGFzaF92YWx1ZT11eHVCZlgwanFLdk5Bc3FwbytkQjVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer1.ustv24h.live/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,NICKTOONS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f5.ustvgo.org/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjA6MTcgUE0maGFzaF92YWx1ZT0zZmY5VWE3bmYrOEJGVCtCTUEwT0tBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f5.ustvgo.org/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,ONE AMERICA NEWS NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f5.ustvgo.org/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjA6MjYgUE0maGFzaF92YWx1ZT1vcFpaUnlQMHZpWTlVQk5zejU0a2VBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f5.ustvgo.org/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,OWN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f5.ustvgo.org/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjA6MzUgUE0maGFzaF92YWx1ZT1zeVhDSzVtOVlNR3hwL01LYkt6RVJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f5.ustvgo.org/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,OLYMPIC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjA6NDQgUE0maGFzaF92YWx1ZT1URW1ZWERVQjRGYmtiQlQrSXBOK1VnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,OXYGEN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer3.ustv24h.live/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjA6NTMgUE0maGFzaF92YWx1ZT1nUUcrMlNndXo4Q0ZJUlByVExPamRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer3.ustv24h.live/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,PBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjE6NTcgUE0maGFzaF92YWx1ZT13bHdSc2hEekFNTW5Eb0tLaEJERmxBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,POP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer3.ustv24h.live/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjI6MTAgUE0maGFzaF92YWx1ZT1uOWlITEVKK0J5S1BsY2hUQ21ITmpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer3.ustv24h.live/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,SCIENCE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer3.ustv24h.live/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjI6MTkgUE0maGFzaF92YWx1ZT1hTkJZNEYwaitaM2dyTWhwVTlTVUNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer3.ustv24h.live/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,SEC NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer3.ustv24h.live/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjI6MjggUE0maGFzaF92YWx1ZT1NcHVJVVhMUFZBemYvOUpFTE1FY21nPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer3.ustv24h.live/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,STARZ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjM6MzUgUE0maGFzaF92YWx1ZT1ucDhMVEVUNHJ4emVvUFM3cUt5MXdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,SUNDANCE TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjM6NDQgUE0maGFzaF92YWx1ZT1HNXZSdkVzSHliaDRUbTdtYk9raUNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,SYFY
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjM6NTQgUE0maGFzaF92YWx1ZT14R3J5aFcreXczd0wvdW80VmZCK2hnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,TBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f2.ustvgo.org/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjQ6MDMgUE0maGFzaF92YWx1ZT1NYUFjRW92em5jUVE3Q1JkYUo1OUZRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f2.ustvgo.org/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,TELEMUNDO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjU6MzQgUE0maGFzaF92YWx1ZT1Vd21JYkVLb05ERG55QjdZQzRoeDRBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,TLC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://peer7.ustv24h.live/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MjY6MzcgUE0maGFzaF92YWx1ZT11ekNFZUFob3pHZ2gzT2FtZEwyVkJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://peer7.ustv24h.live/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,TRAVEL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f2.ustvgo.org/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6Mjc6NDEgUE0maGFzaF92YWx1ZT1BWDk4bHhkZEdUVGN4L05COXJnckVBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f2.ustvgo.org/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,TRUTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s3.ustv24h.live/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6Mjc6NTAgUE0maGFzaF92YWx1ZT01Zmo0TllFblA1YUJHeTVsYjV5VHhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,TV LAND
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6Mjc6NTkgUE0maGFzaF92YWx1ZT0rTG0xWUZueDg5c3lKV3pGUWFrU3dBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,UNIVISION
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s2.ustv24h.live/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6Mjg6MTQgUE0maGFzaF92YWx1ZT15K0h1aTdFbzB6ZGtkbnRJb0dwcXN3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,WE TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MzA6MTYgUE0maGFzaF92YWx1ZT0zanJ0aHovWkVOTWpXUFVQd3VIWCtBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,WWE NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://s1.ustv24h.live/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MzA6MzEgUE0maGFzaF92YWx1ZT1iL29malJLdURWRWVIS2JabjF6c2hnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1,YES NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://f1.ustvgo.org/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIwIDg6MzA6NDEgUE0maGFzaF92YWx1ZT1NRjlIMnpYazlLaE1PMGxDYVp5clh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMCA1OjA5OjU0IEFNJmhhc2hfdmFsdWU9c0licENXeTVoR0dBcjhhY2VBeXBUZz09JnZhbGlkbWludXRlcz0yNDA=
 
