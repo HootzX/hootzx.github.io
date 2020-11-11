@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX Networks East Coast">
+    <display-name lang="en">FX</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FX Movie Channel">
+    <display-name lang="en">FXM</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/fxm.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FXX USA - Eastern">
+    <display-name lang="en">FXX</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/fxx.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <programme start="20201111010000 +0000" stop="20201111030000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Hangover Part III</title>
+    <desc lang="en">Friends must track down an escaped prisoner to exchange for one of their own.</desc>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111050000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Hangover Part III</title>
+    <desc lang="en">Friends must track down an escaped prisoner to exchange for one of their own.</desc>
+  </programme>
+  <programme start="20201111050000 +0000" stop="20201111070000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike and Dave Need Wedding Dates</title>
+    <desc lang="en">Two brothers place an ad seeking dates to their sister's wedding. They find two girls, who secretly just want a free trip. The girls pretend to be respectable, but once they get to Hawaii, the brothers realize they are extremely wild and unhinged.</desc>
+  </programme>
+  <programme start="20201111070000 +0000" stop="20201111073000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Baskets</title>
+    <desc lang="en">Chip sees a homeless person in a library.</desc>
+  </programme>
+  <programme start="20201111073000 +0000" stop="20201111080100 +0000" channel="FX Networks East Coast">
+    <title lang="en">Baskets</title>
+    <desc lang="en">Chip laments becoming a fake Christmas tree person.</desc>
+  </programme>
+  <programme start="20201111080100 +0000" stop="20201111083000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111083000 +0000" stop="20201111090000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111090000 +0000" stop="20201111093000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111093000 +0000" stop="20201111100000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111100000 +0000" stop="20201111103000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111103000 +0000" stop="20201111110000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111113000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111113000 +0000" stop="20201111120000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111150000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Downsizing</title>
+    <desc lang="en">After a company develops a way to shrink people to a fraction of their normal size as a means of combating overpopulation, a husband and wife decide to go through with the procedure, but discover that the little life isn't everything that was promised.</desc>
+  </programme>
+  <programme start="20201111150000 +0000" stop="20201111153000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">A confident Molly offers her wisdom to Samuel who now wants to be a stand-up comic. Meanwhile, Molly's advice to Harry causes him to challenge his protective mother.</desc>
+  </programme>
+  <programme start="20201111153000 +0000" stop="20201111160000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Victoria brings home a new boyfriend and the entire family wonders if he's finally 'the one.'.</desc>
+  </programme>
+  <programme start="20201111160000 +0000" stop="20201111183000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Dumb and Dumber To</title>
+    <desc lang="en">Dimwitted pals Harry and Lloyd are reunited after 20 years. When an old postcard informs Harry that he fathered a child, he and Lloyd set out to find his daughter, who was put up for adoption.</desc>
+  </programme>
+  <programme start="20201111183000 +0000" stop="20201111203000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike and Dave Need Wedding Dates</title>
+    <desc lang="en">Two brothers place an ad seeking dates to their sister's wedding. They find two girls, who secretly just want a free trip. The girls pretend to be respectable, but once they get to Hawaii, the brothers realize they are extremely wild and unhinged.</desc>
+  </programme>
+  <programme start="20201111203000 +0000" stop="20201111223000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Daddy's Home</title>
+    <desc lang="en">A clean-cut, straight-edge radio host attempts to win his step children's love and respect. But his quest for acceptance is interrupted by the return of the childrens' biker father.</desc>
+  </programme>
+  <programme start="20201111223000 +0000" stop="20201111223000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Heat</title>
+    <desc lang="en">An ambitious FBI agent is sent to Boston to track down a drug lord. When she arrives, she is partnered with a loose cannon local cop who is not fond of her and is hell-bent on finding the criminal all on her own.</desc>
+  </programme>
+  <programme start="20201111223000 +0000" stop="20201112010000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Heat</title>
+    <desc lang="en">An ambitious FBI agent is sent to Boston to track down a drug lord. When she arrives, she is partnered with a loose cannon local cop who is not fond of her and is hell-bent on finding the criminal all on her own.</desc>
+  </programme>
+  <programme start="20201112010000 +0000" stop="20201112030000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Book Club</title>
+    <desc lang="en">Four lifelong friends form a monthly book club, but when they decide to read 'Fifty Shades of Grey' for fun, they all realize that they're missing something in their lives. They begin searching for the romantic spark that they'd all given up on years ago.</desc>
+  </programme>
+  <programme start="20201112030000 +0000" stop="20201112050000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Book Club</title>
+    <desc lang="en">Four lifelong friends form a monthly book club, but when they decide to read 'Fifty Shades of Grey' for fun, they all realize that they're missing something in their lives. They begin searching for the romantic spark that they'd all given up on years ago.</desc>
+  </programme>
+  <programme start="20201112050000 +0000" stop="20201112080000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Longest Ride</title>
+    <desc lang="en">A college student about to begin her dream job in New York City falls in love with a former champion bull rider who's determined to make a comeback. Their love story intertwines with that of a 91-year-old man who's visited by the image of his dead wife.</desc>
+  </programme>
+  <programme start="20201112080000 +0000" stop="20201112090000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Fosse/ Verdon</title>
+    <desc lang="en">As Gwen and Bob pursue separate projects, Gwen thinks back to the beginning of her career, and the circumstances that led her here.</desc>
+  </programme>
+  <programme start="20201112090000 +0000" stop="20201112100000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Fosse/ Verdon</title>
+    <desc lang="en">Bob’s career takes some huge leaps, while Gwen struggles to overcome personal and professional setbacks.</desc>
+  </programme>
+  <programme start="20201112100000 +0000" stop="20201112103000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112103000 +0000" stop="20201112110000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112113000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112113000 +0000" stop="20201112120000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112123000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Molly meets the best buddy of her dreams when Peggy's childhood friend comes to town, but Peggy is not keen on sharing.</desc>
+  </programme>
+  <programme start="20201112123000 +0000" stop="20201112130000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Molly looks to win some extra cash when she and the girls head to a riverboat casino for the weekend. Meanwhile, Mike and Vince try to enjoy some college basketball when the guys come over to watch television.</desc>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112133000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Carl, Mike and Samuel take a road trip to Memphis to meet Carl's mother for the first time.</desc>
+  </programme>
+  <programme start="20201112133000 +0000" stop="20201112163000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Longest Ride</title>
+    <desc lang="en">A college student about to begin her dream job in New York City falls in love with a former champion bull rider who's determined to make a comeback. Their love story intertwines with that of a 91-year-old man who's visited by the image of his dead wife.</desc>
+  </programme>
+  <programme start="20201112163000 +0000" stop="20201112193000 +0000" channel="FX Networks East Coast">
+    <title lang="en">Trainwreck</title>
+    <desc lang="en">A commitment-phobic magazine writer is surprised to find her interest going beyond a one-night stand when she goes out with a nice-guy sports doctor on whom she's writing an article.</desc>
+  </programme>
+  <programme start="20201112193000 +0000" stop="20201112220000 +0000" channel="FX Networks East Coast">
+    <title lang="en">The Heat</title>
+    <desc lang="en">An ambitious FBI agent is sent to Boston to track down a drug lord. When she arrives, she is partnered with a loose cannon local cop who is not fond of her and is hell-bent on finding the criminal all on her own.</desc>
+  </programme>
+  <programme start="20201111005000 +0000" stop="20201111030500 +0000" channel="FX Movie Channel">
+    <title lang="en">Taken 3</title>
+    <desc lang="en">Shortly after an ex-covert operative is reunited with his wife, she's brutally murdered, and he gets the blame. Using his superior abilities, he evades the authorities while hunting down the real killer and making sure his daughter is safe.</desc>
+  </programme>
+  <programme start="20201111030500 +0000" stop="20201111052000 +0000" channel="FX Movie Channel">
+    <title lang="en">Taken 3</title>
+    <desc lang="en">Shortly after an ex-covert operative is reunited with his wife, she's brutally murdered, and he gets the blame. Using his superior abilities, he evades the authorities while hunting down the real killer and making sure his daughter is safe.</desc>
+  </programme>
+  <programme start="20201111052000 +0000" stop="20201111073700 +0000" channel="FX Movie Channel">
+    <title lang="en">Atomic Blonde</title>
+    <desc lang="en">A beautiful and deadly spy is sent to West Berlin in the days before the Berlin Wall comes down to recover an important dossier whose contents could put other agents at risk. She teams up with the local station chief as enemy agents pursue the same goal.</desc>
+  </programme>
+  <programme start="20201111073700 +0000" stop="20201111080000 +0000" channel="FX Movie Channel">
+    <title lang="en">FXM Presents</title>
+    <desc lang="en">An exploration of the movie making process from script to screen.</desc>
+  </programme>
+  <programme start="20201111080000 +0000" stop="20201111091000 +0000" channel="FX Movie Channel">
+    <title lang="en">Backlash</title>
+    <desc lang="en">A man tries to frame his wife for a murder that he committed.</desc>
+  </programme>
+  <programme start="20201111091000 +0000" stop="20201111110000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Snake Pit</title>
+    <desc lang="en">A woman is in a state asylum and doesn't know how she got there. In a flashback, she remembers that her husband sent her there and how she started developing the symptoms. She is kept in a state of misery in the asylum.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111130000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Fury</title>
+    <desc lang="en">A psychically gifted woman teams up with a man to save a boy with psychokinetic powers.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111144000 +0000" channel="FX Movie Channel">
+    <title lang="en">Five Gates to Hell</title>
+    <desc lang="en">Doctors and nurses in French Indochina are held captive by a guerilla band.</desc>
+  </programme>
+  <programme start="20201111144000 +0000" stop="20201111163000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Snake Pit</title>
+    <desc lang="en">A woman is in a state asylum and doesn't know how she got there. In a flashback, she remembers that her husband sent her there and how she started developing the symptoms. She is kept in a state of misery in the asylum.</desc>
+  </programme>
+  <programme start="20201111163000 +0000" stop="20201111181500 +0000" channel="FX Movie Channel">
+    <title lang="en">The Ghost and Mrs. Muir</title>
+    <desc lang="en">When a widow refuses to leave an old house haunted by the ghost of a sea captain, the two become friends.</desc>
+  </programme>
+  <programme start="20201111181500 +0000" stop="20201111200000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Other</title>
+    <desc lang="en">A family experiences a series of tragic events that may be tied to an evil twin.</desc>
+  </programme>
+  <programme start="20201111200000 +0000" stop="20201111224000 +0000" channel="FX Movie Channel">
+    <title lang="en">Miss Peregrine's Home for Peculiar Children</title>
+    <desc lang="en">After his grandfather mysteriously dies, Jake finds clues to a place known as Miss Peregrine's Home for Peculiar Children. As he gets to know the residents, all of whom have special abilities, the Home is attacked by a group of powerful enemies.</desc>
+  </programme>
+  <programme start="20201111224000 +0000" stop="20201111224000 +0000" channel="FX Movie Channel">
+    <title lang="en">Goosebumps 2: Haunted Halloween</title>
+    <desc lang="en">On Halloween night, in an abandoned old house previously owned by author R. L. Stine, two boys discover a forgotten manuscript that, once opened and read, begins bringing the holiday's monsters to life, threatening their town and their lives.</desc>
+  </programme>
+  <programme start="20201111224000 +0000" stop="20201112003000 +0000" channel="FX Movie Channel">
+    <title lang="en">Goosebumps 2: Haunted Halloween</title>
+    <desc lang="en">On Halloween night, in an abandoned old house previously owned by author R. L. Stine, two boys discover a forgotten manuscript that, once opened and read, begins bringing the holiday's monsters to life, threatening their town and their lives.</desc>
+  </programme>
+  <programme start="20201112003000 +0000" stop="20201112022500 +0000" channel="FX Movie Channel">
+    <title lang="en">Krampus</title>
+    <desc lang="en">A boy who had an unhappy Christmas summons a demon to his family's home.</desc>
+  </programme>
+  <programme start="20201112022500 +0000" stop="20201112042000 +0000" channel="FX Movie Channel">
+    <title lang="en">Krampus</title>
+    <desc lang="en">A boy who had an unhappy Christmas summons a demon to his family's home.</desc>
+  </programme>
+  <programme start="20201112042000 +0000" stop="20201112061000 +0000" channel="FX Movie Channel">
+    <title lang="en">Goosebumps 2: Haunted Halloween</title>
+    <desc lang="en">On Halloween night, in an abandoned old house previously owned by author R. L. Stine, two boys discover a forgotten manuscript that, once opened and read, begins bringing the holiday's monsters to life, threatening their town and their lives.</desc>
+  </programme>
+  <programme start="20201112061000 +0000" stop="20201112080300 +0000" channel="FX Movie Channel">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">A teenaged girl with a strict stepfather reconnects with a childhood friend who admits to not being able to feel any emotions. Together, they begin plotting to murder the stepfather and recruit a local delinquent to help with their scheming.</desc>
+  </programme>
+  <programme start="20201112080300 +0000" stop="20201112083000 +0000" channel="FX Movie Channel">
+    <title lang="en">FXM Presents</title>
+    <desc lang="en">An exploration of the movie making process from script to screen.</desc>
+  </programme>
+  <programme start="20201112083000 +0000" stop="20201112110000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Hustler</title>
+    <desc lang="en">An ace pool player who hustles other players is taken under a trainer's wing.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112122000 +0000" channel="FX Movie Channel">
+    <title lang="en">Everything Happens at Night</title>
+    <desc lang="en">Two reporters completely forget their assignment when they meet a becoming young woman.</desc>
+  </programme>
+  <programme start="20201112122000 +0000" stop="20201112140500 +0000" channel="FX Movie Channel">
+    <title lang="en">The Ghost and Mrs. Muir</title>
+    <desc lang="en">When a widow refuses to leave an old house haunted by the ghost of a sea captain, the two become friends.</desc>
+  </programme>
+  <programme start="20201112140500 +0000" stop="20201112155000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Other</title>
+    <desc lang="en">A family experiences a series of tragic events that may be tied to an evil twin.</desc>
+  </programme>
+  <programme start="20201112155000 +0000" stop="20201112174000 +0000" channel="FX Movie Channel">
+    <title lang="en">Conrack</title>
+    <desc lang="en">A teacher battles the odds of illiteracy and poverty in a South Carolina school.</desc>
+  </programme>
+  <programme start="20201112174000 +0000" stop="20201112200000 +0000" channel="FX Movie Channel">
+    <title lang="en">The Hustler</title>
+    <desc lang="en">An ace pool player who hustles other players is taken under a trainer's wing.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112215500 +0000" channel="FX Movie Channel">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">A teenaged girl with a strict stepfather reconnects with a childhood friend who admits to not being able to feel any emotions. Together, they begin plotting to murder the stepfather and recruit a local delinquent to help with their scheming.</desc>
+  </programme>
+  <programme start="20201111000000 +0000" stop="20201111003000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Marge gets busted for shoplifting at the Kiwk-E-Mart and is sentenced to 30 days in prison. Bart concocts a brilliant scheme to break her out of jail that involves a party dress, a wig and a crowbar.</desc>
+  </programme>
+  <programme start="20201111003000 +0000" stop="20201111010000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">When Krusty the Clown's show gets cancelled, Bart and Lisa enlist the help of Krusty's Hollywood pals like Hugh Hefner, Bette Midler, Elizabeth Taylor and the Red Hot Chili Peppers to save the show.</desc>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111013000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">After the kids find an album cover with Homer's picture on it, Homer reveals that he used to perform in a barbershop quartet with Principal Skinner, Chief Wiggum and Apu.</desc>
+  </programme>
+  <programme start="20201111013000 +0000" stop="20201111020000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Homer fails a competency test and must go back to college to keep his job. At college, he selects the nerds and the crusty Dean as his mortal enemies based on his preconceived notions of what college is like from old 1980s films.</desc>
+  </programme>
+  <programme start="20201111020000 +0000" stop="20201111023000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">When Brian accidentally becomes a local hero, an old street pal and now a successful millionaire dog reaches out and tries to convince him to get neutered. Meanwhile, Lois gets a pixie cut against Peter's wishes.</desc>
+  </programme>
+  <programme start="20201111023000 +0000" stop="20201111030000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">Peter and his friends are sick of forgetting the million-dollar business ideas they come up with while drinking, so they strap on Joe's police body cams to record their every move.</desc>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111033000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">Peter is mistakenly identified as transgender, which leads to an unexpected event and an important learning lesson.</desc>
+  </programme>
+  <programme start="20201111033000 +0000" stop="20201111040000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">After Peter and the guys get caught pretending to be military veterans and are found guilty of the Stolen Valor Act, a judge sentences them to join the U.S. Coast Guard.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111043000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence.</desc>
+  </programme>
+  <programme start="20201111043000 +0000" stop="20201111050000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">Louise must face her fear of public pooping when her class goes on an overnight trip to the aquarium. Meanwhile, Linda enlists the family to make a video for her parents' anniversary.</desc>
+  </programme>
+  <programme start="20201111050000 +0000" stop="20201111053000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Archer</title>
+    <desc lang="en">Kidnappers going after Cheryl/Carol end up abducting Pam which causes ISIS to go into lockdown.</desc>
+  </programme>
+  <programme start="20201111053000 +0000" stop="20201111060000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Archer</title>
+    <desc lang="en">A mysterious stranger summons Malory and her intrepid ISIS agents to Monaco.</desc>
+  </programme>
+  <programme start="20201111060000 +0000" stop="20201111063000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">It's Always Sunny in Philadelphia</title>
+    <desc lang="en">The gang attends their high school reunion with a lot to prove. Old friends are met and new foes are made as the gang trips down memory lane.</desc>
+  </programme>
+  <programme start="20201111063000 +0000" stop="20201111070100 +0000" channel="FXX USA - Eastern">
+    <title lang="en">It's Always Sunny in Philadelphia</title>
+    <desc lang="en">In the conclusion of this two-part episode the gang devises a new plan at their high school reunion to make sure their tarnished high school images will now sparkle and shine.</desc>
+  </programme>
+  <programme start="20201111070100 +0000" stop="20201111073000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111073000 +0000" stop="20201111080000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111080000 +0000" stop="20201111083000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111083000 +0000" stop="20201111090000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111090000 +0000" stop="20201111093000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111093000 +0000" stop="20201111100000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111100000 +0000" stop="20201111103000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111103000 +0000" stop="20201111110000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111113000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111113000 +0000" stop="20201111120000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111123000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Bonnie and Adam's relationship is tested when he moves in with her and Christy for a few weeks. Also, Christy learns the hard way that it may be a mistake to try and meet men with Jill.</desc>
+  </programme>
+  <programme start="20201111123000 +0000" stop="20201111130000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy considers giving up her dream of becoming a lawyer when Bonnie's ex-girlfriend, Jeanine, offers her a lucrative job in real estate. Also, Adam is very curious about Bonnie's past with women.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111133000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Bonnie fears she's become undesirable when she catches Adam smoking pot before sex and Christy tries to smooth things between them.</desc>
+  </programme>
+  <programme start="20201111133000 +0000" stop="20201111140000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy and Bonnie worry that Roscoe has a drug problem when Baxter and Candance catch him smoking pot.</desc>
+  </programme>
+  <programme start="20201111140000 +0000" stop="20201111143000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy and Bonnie rush to a sick Violet's side, only to find out that having mono is the least of her worries.</desc>
+  </programme>
+  <programme start="20201111143000 +0000" stop="20201111150000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">Dre's sister Rhonda takes Jack and Diane to her part of town in a black neighbourhood and claims the twins are scared of their own community. Dre and Rhonda take them to a local diner to show them why it's so special.</desc>
+  </programme>
+  <programme start="20201111150000 +0000" stop="20201111170000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Upgrade</title>
+    <desc lang="en">After his wife is murdered during a violent mugging that leaves him paralyzed, a man is implanted with an experimental computer chip that not only helps him walk again but also gives him superhuman fighting abilities that he uses to get revenge.</desc>
+  </programme>
+  <programme start="20201111170000 +0000" stop="20201111193000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Baby Driver</title>
+    <desc lang="en">A young man with a hearing problem constantly listens to music to drown out the ringing in his ears. He works as a getaway driver for a crime lord's gang, but when he meets a girl who seems to understand him he vows that his next job will be his last.</desc>
+  </programme>
+  <programme start="20201111193000 +0000" stop="20201111220000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Several years after humanity's victory, the children of a fallen hero pilot massive robots to fight monsters from another world when one of their own goes rogue and reopens the rift to the monsters' home world, threatening humanity with extinction.</desc>
+  </programme>
+  <programme start="20201111220000 +0000" stop="20201112000000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">A new skyscraper's head of security finds himself framed for the attack when an explosion starts a massive fire in the building. With his wife and child trapped in their condo hundreds of feet above the streets below, he desperately tries to reach them.</desc>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112020000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">A new skyscraper's head of security finds himself framed for the attack when an explosion starts a massive fire in the building. With his wife and child trapped in their condo hundreds of feet above the streets below, he desperately tries to reach them.</desc>
+  </programme>
+  <programme start="20201112020000 +0000" stop="20201112023000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence.</desc>
+  </programme>
+  <programme start="20201112023000 +0000" stop="20201112030000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">Louise must face her fear of public pooping when her class goes on an overnight trip to the aquarium. Meanwhile, Linda enlists the family to make a video for her parents' anniversary.</desc>
+  </programme>
+  <programme start="20201112030000 +0000" stop="20201112033000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">While trying to show Tina what's great about their town, Linda ends up on the trail of a legendary local singer. Meanwhile, Teddy turns to Bob for help in arguing with a sports radio host.</desc>
+  </programme>
+  <programme start="20201112033000 +0000" stop="20201112040000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">A classmate comes to Louise for lessons in how to get in trouble. Meanwhile, Bob reluctantly agrees to bring Jimmy Pesto his hernia medication.</desc>
+  </programme>
+  <programme start="20201112040000 +0000" stop="20201112043000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">Gene auditions for a small role in a local theater production, but things backfire when he discovers that Linda actually bargained with the director to get Gene the part.</desc>
+  </programme>
+  <programme start="20201112043000 +0000" stop="20201112050000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">When Zeke gets in trouble, the Belcher kids and Jimmy Jr. pitch in to help prevent him being sent to a disciplinary school. However, Tina tries to thwart their mission, so she can have Jimmy Jr. and his butt all to herself.</desc>
+  </programme>
+  <programme start="20201112050000 +0000" stop="20201112053000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">After Peter and the guys get caught pretending to be military veterans and are found guilty of the Stolen Valor Act, a judge sentences them to join the U.S. Coast Guard.</desc>
+  </programme>
+  <programme start="20201112053000 +0000" stop="20201112060000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">Peter and his friends are sick of forgetting the million-dollar business ideas they come up with while drinking, so they strap on Joe's police body cams to record their every move.</desc>
+  </programme>
+  <programme start="20201112060000 +0000" stop="20201112063000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">It's Always Sunny in Philadelphia</title>
+    <desc lang="en">Dennis and Dee's ailing grandfather Pop-Pop is wasting away in the hospital, and they have to decide whether or not to pull the plug. But things get complicated when The Gang learns of Pop-Pop's history as a Nazi.</desc>
+  </programme>
+  <programme start="20201112063000 +0000" stop="20201112070200 +0000" channel="FXX USA - Eastern">
+    <title lang="en">It's Always Sunny in Philadelphia</title>
+    <desc lang="en">Dennis and the gang crash Maureen's wedding to make certain he'll be able to sever all ties, only to discover a union much scarier than kissing cousins.</desc>
+  </programme>
+  <programme start="20201112070200 +0000" stop="20201112073300 +0000" channel="FXX USA - Eastern">
+    <title lang="en">It's Always Sunny in Philadelphia</title>
+    <desc lang="en">When Charlie and Dee invade the rarefied world of the 1%, they find a romantic connection with two members of a very wealthy family.</desc>
+  </programme>
+  <programme start="20201112073300 +0000" stop="20201112080400 +0000" channel="FXX USA - Eastern">
+    <title lang="en">It's Always Sunny in Philadelphia</title>
+    <desc lang="en">The gang steps into the therapist's office to work through their mountain of issues. When Dennis thinks he has everyone figured out, the shrink turns the tables on him and exposes the insanity in his unique brand of pop psychology.</desc>
+  </programme>
+  <programme start="20201112080400 +0000" stop="20201112083000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112083000 +0000" stop="20201112090000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112090000 +0000" stop="20201112093000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112093000 +0000" stop="20201112100000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112100000 +0000" stop="20201112103000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112103000 +0000" stop="20201112110000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112113000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112113000 +0000" stop="20201112120000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112123000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">An overprotective Christy keeps a constant eye on her 12-year-old son, after discovering he has been using drugs and alcohol and Bonnie finds herself in the strange position of being the calm and rational one.</desc>
+  </programme>
+  <programme start="20201112123000 +0000" stop="20201112130000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy and Bonnie worry about Jill after her cry for help on the anniversary of her mother's suicide.</desc>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112133000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy and Bonnie dip back into illegal activities, and Adam questions their morality.</desc>
+  </programme>
+  <programme start="20201112133000 +0000" stop="20201112153000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Upgrade</title>
+    <desc lang="en">After his wife is murdered during a violent mugging that leaves him paralyzed, a man is implanted with an experimental computer chip that not only helps him walk again but also gives him superhuman fighting abilities that he uses to get revenge.</desc>
+  </programme>
+  <programme start="20201112153000 +0000" stop="20201112180000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Several years after humanity's victory, the children of a fallen hero pilot massive robots to fight monsters from another world when one of their own goes rogue and reopens the rift to the monsters' home world, threatening humanity with extinction.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112200000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
+    <desc lang="en">A mall security guard takes his teenage daughter with him on a trip to Las Vegas, where he's attending a Security Guard Expo. When he learns of a heist and is scoffed at by casino security, he takes it upon himself to take down the criminals.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112220000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">Action Point</title>
+    <desc lang="en">When a big and sleek corporate park opens up across town, the owner of a much smaller and lower budget park makes his rides as dangerous as he can in an attempt increase their excitement, save his park and impress his estranged teenage daughter.</desc>
+  </programme>
+  <programme start="20201112220000 +0000" stop="20201112223000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Homer's new job as a Krusty the Klown knock-off lands him in deep water with the mob.</desc>
+  </programme>
+  <programme start="20201112223000 +0000" stop="20201112230000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Marge is thrown out of the women's investment group, so she buys a Pretzel Wagon franchise. When her business struggles to thrive, Homer secretly makes a deal with Fat Tony and the Mob.</desc>
+  </programme>
+  <programme start="20201112230000 +0000" stop="20201112233000 +0000" channel="FXX USA - Eastern">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Homer takes on gangsters when he is hired as Mayor Quimby's bodyguard.</desc>
+  </programme>
+</tv>
