@@ -5,6 +5,36 @@
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/abc.png" />
     <url>http://www.tvtv.us</url>
   </channel>
+  <channel id="AMC - Eastern Feed">
+    <display-name lang="en">AMC</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/amc.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Animal Planet US - East">
+    <display-name lang="en">ANIMAL PLANET</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/animalplanet-19.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BBC America - East">
+    <display-name lang="en">BBC AMERICA</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/bbcamerica.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network">
+    <display-name lang="en">BIG TEN NETWORK</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/bigten-2019.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="en">BOOMERANG</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/boomerang.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Bravo USA - Eastern Feed">
+    <display-name lang="en">BRAVO</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/bravousa.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
   <channel id="FX Networks East Coast">
     <display-name lang="en">FX</display-name>
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" />
@@ -210,6 +240,1151 @@
   </programme>
   <programme start="20201112230000 +0000" stop="20201112233000 +0000" channel="ABC (WABC) New York, NY">
     <title lang="en">Eyewitness News at 6:00 p.m.</title>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111035900 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Star Trek</title>
+    <desc lang="en">A Romulan, Nero, travels through time searching for Ambassador Spock. Romulus is destroyed in the future and Nero holds Spock responsible. His vengeance brings him to the time of Kirk and Spock's youth where they are still in Starfleet Academy.</desc>
+  </programme>
+  <programme start="20201111035900 +0000" stop="20201111062900 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">The Rundown</title>
+    <desc lang="en">A bounty hunter teams up with a mob boss's son in order to retrieve a legendary artifact.</desc>
+  </programme>
+  <programme start="20201111062900 +0000" stop="20201111074300 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic, a young New Englander, discovers her supernatural abilities as the immortal Charlie Manx lures a child into a mysterious Rolls Royce Wraith.</desc>
+  </programme>
+  <programme start="20201111074300 +0000" stop="20201111085000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic meets Maggie, a medium with more questions than answers. Manx visits Haverhill to seek the shorter way and finds Bing, who is eager to help.</desc>
+  </programme>
+  <programme start="20201111085000 +0000" stop="20201111095500 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic strives to live a normal life despite Maggie's warning. Charlie Manx puts Bing Partridge to work.</desc>
+  </programme>
+  <programme start="20201111095500 +0000" stop="20201111110000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic seeks the Wraith and learns she must trust her gift. A body surfaces in Haverhill.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111120000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111130000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111140000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111140000 +0000" stop="20201111143000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">The Three Stooges</title>
+    <desc lang="en">The best shorts from these American comedy icons.</desc>
+  </programme>
+  <programme start="20201111143000 +0000" stop="20201111180000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">2012</title>
+    <desc lang="en">A geologist discovers that solar storms are heating the Earth's core. International governments keep the impending disaster a secret. However, a writer stumbles upon the same information and races to save his family and gain access to the 'arks.'.</desc>
+  </programme>
+  <programme start="20201111180000 +0000" stop="20201111210000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Star Trek</title>
+    <desc lang="en">A Romulan, Nero, travels through time searching for Ambassador Spock. Romulus is destroyed in the future and Nero holds Spock responsible. His vengeance brings him to the time of Kirk and Spock's youth where they are still in Starfleet Academy.</desc>
+  </programme>
+  <programme start="20201111210000 +0000" stop="20201112000000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Bad Boys II</title>
+    <desc lang="en">Narcotics detectives Mike Lowrey and Marcus Burnett have been assigned to a high-tech task force that is investigating the flow of designer ecstasy into Miami. Their inquiries inadvertently lead them to a major conspiracy involving a vicious kingpin.</desc>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112040000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">The Green Mile</title>
+    <desc lang="en">Death row guards at a penitentiary form an unusual relationship with an inmate who seems to possess extraordinary powers. They are faced with a moral dilemma when they come to believe the inmate may actually be innocent.</desc>
+  </programme>
+  <programme start="20201112040000 +0000" stop="20201112063000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Bad Boys</title>
+    <desc lang="en">Two hip Miami undercover detectives have 72 hours to nab the crooks who stole millions in recovered heroin from the police station.</desc>
+  </programme>
+  <programme start="20201112063000 +0000" stop="20201112073700 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic is questioned by the police and cannot fill the holes in her story. Manx lays out his plan for Vic, but things go awry.</desc>
+  </programme>
+  <programme start="20201112073700 +0000" stop="20201112084100 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic meets another strong creative who gives her some advice. Manx receives an unexpected visitor.</desc>
+  </programme>
+  <programme start="20201112084100 +0000" stop="20201112094500 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic finds herself stuck in the real world. Manx runs into trouble and calls Bing for help.</desc>
+  </programme>
+  <programme start="20201112094500 +0000" stop="20201112105200 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">NOS4A2</title>
+    <desc lang="en">Vic finds herself in grave danger after an argument with Linda. Manx seeks advice from an old friend.</desc>
+  </programme>
+  <programme start="20201112105200 +0000" stop="20201112110000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">The Three Stooges</title>
+    <desc lang="en">The best shorts from these American comedy icons.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112120000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112130000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112140000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112140000 +0000" stop="20201112153000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Hansel and Gretel: Witch Hunters</title>
+    <desc lang="en">Bounty hunter siblings Hansel and Gretel travel around the world tracking and killing witches. The duo find a clue to their past when they encounter a new kind of evil.</desc>
+  </programme>
+  <programme start="20201112153000 +0000" stop="20201112180000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Bad Boys</title>
+    <desc lang="en">Two hip Miami undercover detectives have 72 hours to nab the crooks who stole millions in recovered heroin from the police station.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112210000 +0000" channel="AMC - Eastern Feed">
+    <title lang="en">Bad Boys II</title>
+    <desc lang="en">Narcotics detectives Mike Lowrey and Marcus Burnett have been assigned to a high-tech task force that is investigating the flow of designer ecstasy into Miami. Their inquiries inadvertently lead them to a major conspiracy involving a vicious kingpin.</desc>
+  </programme>
+  <programme start="20201111000000 +0000" stop="20201111010000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Alaskan Bush People</title>
+    <desc lang="en">When an ostrich lays its first egg, the Brown siblings rush to figure out how to incubate it. Bear gets a special visit from a girl on North Star Ranch as the family prepares for a surprise celebration for Billy and Ami's 40th wedding anniversary.</desc>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111030000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Alaskan Bush People: Wild Life</title>
+    <desc lang="en">At the peak of fire season, the Wolfpack's newest safety protocols are put to the test, forcing them to evacuate. Then, as the Browns race to complete their water system, Billy receives news that could impact the future of the family.</desc>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111040000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Yukon Men</title>
+    <desc lang="en">Winter is here. The reality of the 'dark days' takes hold. Chris and Jessi struggle for each meal and need a new strategy. Putting the village first, Charlie falls behind on his own preparations. For Pat, it's time to find out if his gamble will pay off.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111050000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Yukon Men</title>
+    <desc lang="en">As the dark days descend, villagers scramble to make final preparations. Desperate for meat, the Morses come nose to nose with a bear. Stan makes a mad dash for his winter home on the Tozi.  Charlie Wright answers an emergency call from a village elder.</desc>
+  </programme>
+  <programme start="20201111050000 +0000" stop="20201111070000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Alaskan Bush People: Wild Life</title>
+    <desc lang="en">At the peak of fire season, the Wolfpack's newest safety protocols are put to the test, forcing them to evacuate. Then, as the Browns race to complete their water system, Billy receives news that could impact the future of the family.</desc>
+  </programme>
+  <programme start="20201111070000 +0000" stop="20201111080000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Yukon Men</title>
+    <desc lang="en">Winter is here. The reality of the 'dark days' takes hold. Chris and Jessi struggle for each meal and need a new strategy. Putting the village first, Charlie falls behind on his own preparations. For Pat, it's time to find out if his gamble will pay off.</desc>
+  </programme>
+  <programme start="20201111080000 +0000" stop="20201111090000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Yukon Men</title>
+    <desc lang="en">As the dark days descend, villagers scramble to make final preparations. Desperate for meat, the Morses come nose to nose with a bear. Stan makes a mad dash for his winter home on the Tozi.  Charlie Wright answers an emergency call from a village elder.</desc>
+  </programme>
+  <programme start="20201111090000 +0000" stop="20201111100000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Ice Cold Gold</title>
+    <desc lang="en">The miners are almost at season's end. With winter closing in and time running out, Josh and Eric arrive in Eqi for one last shot at gold. Meanwhile, the rest of the team focuses on dredging for rubies.</desc>
+  </programme>
+  <programme start="20201111100000 +0000" stop="20201111110000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Ice Cold Gold</title>
+    <desc lang="en">It's the miner's last week, and Greenland has not only gotten in their heads but she is exposing their inner demons. With only days left before she covers her gifts up for the winter, The Beast reveals the chinks in their resolve.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111120000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Pit Bulls &amp; Parolees</title>
+    <desc lang="en">Tia and her staff scramble to coax a scared dog, hiding under a vehicle, to safety. Tania's in-laws are seeking a new addition to their home. Tia's son Moe and his fiancée Lizzy prepare for their wedding day.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111130000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Pit Bulls &amp; Parolees</title>
+    <desc lang="en">When former adopters return to VRC to find their dog a companion, Tia and Lizzy switch up their usual adoption procedure to get the best results. Marcel rescues a dog abandoned at a local church and is concerned that some masses could be cancer.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111140000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Pit Bulls &amp; Parolees</title>
+    <desc lang="en">As VRC braces for Hurricane Barry, Tia and her crew ensure the animals' safety and Mariah and Earl tend to a stray Labradoodle that has been shot. Later, a cancer survivor hopes to rescue an unwanted dog she loves called East.</desc>
+  </programme>
+  <programme start="20201111140000 +0000" stop="20201111150000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">Jackson works with a soft-spoken musician who feels abused by her cat and ashamed that she can't figure out how to stop it; a pair of hairless Donskoy cats who are treating their guardian, Debbi's, apartment like it's a 24-hour free-for-all party zone.</desc>
+  </programme>
+  <programme start="20201111150000 +0000" stop="20201111160000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">The episode features the story of a violent cat, Sebastian, whose guardians have a newborn in jeopardy, a divorced man whose wild cat, Zeus, is threatening to leave him, and a 'my cat from heaven' story about a life-saving cat from Ohio.</desc>
+  </programme>
+  <programme start="20201111160000 +0000" stop="20201111170000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">Jackson encounters Samantha, who fears her cat, Spike, so much she's been keeping him in a cat box outside her house. Also, Jackson makes his way to Brooklyn where a couple's relationship is suffering over the ongoing blood feud between their two cats.</desc>
+  </programme>
+  <programme start="20201111170000 +0000" stop="20201111180000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">Jackson comes to the defense of Good Kitty, a feline who he must help stand up to her two feline attackers. The Cat Daddy also encounters a couple fed up with the way their cats, Tiki and Marley, are eating everything in sight.</desc>
+  </programme>
+  <programme start="20201111180000 +0000" stop="20201111190000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">Jackson experiences his most vicious, and most illuminating, cat attack of not just the season, but in years, at the claws of a troubled cat named May. Also, the Cat Daddy must help a nervous-wreck of a cat guardian move her two very feral cats to Canada.</desc>
+  </programme>
+  <programme start="20201111190000 +0000" stop="20201111200000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">In Philadelphia, Jackson helps a cat named Charlee rebuild the confidence that her sister cat, Frankie, has nearly beaten out of her. The Cat Daddy must crack the case of a pee soaked apartment in order help a family with multiple cats.</desc>
+  </programme>
+  <programme start="20201111200000 +0000" stop="20201111210000 +0000" channel="Animal Planet US - East">
+    <title lang="en">My Cat From Hell</title>
+    <desc lang="en">Jackson guides a defeated couple and their cat who has been locked away for over a year. He visits a "Cat-Bassador" who works with his guardian to help special needs cats find forever homes. And Jackson visits an incredible prison program.</desc>
+  </programme>
+  <programme start="20201111210000 +0000" stop="20201111220000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Lone Star Law</title>
+    <desc lang="en">Two new rookies from the 59th cadet class of Texas Game Wardens work their first cases. Game wardens rescue softshell turtles caught on illegal trotlines on Llano River. In East Texas, the search is on for a hunter lost in the Big Thicket Preserve.</desc>
+  </programme>
+  <programme start="20201111220000 +0000" stop="20201111230000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Lone Star Law</title>
+    <desc lang="en">Game Wardens beef up patrols for the short pronghorn season. A deer needs to be captured and relocated from an industrial site, and an injured hawk is rushed to a rehabber. Near Port Aransas, Game Wardens check duck hunters on the bay.</desc>
+  </programme>
+  <programme start="20201111230000 +0000" stop="20201112000000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Lone Star Law</title>
+    <desc lang="en">Down on the Mexican border, Game Wardens pull in an illegal gill net. A group caught trespassing is found with firearms and narcotics. In East Texas, Game Wardens question a man suspected of illegally hunting on private property.</desc>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112010000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Lone Star Law</title>
+    <desc lang="en">It's opening weekend of deer season and the wardens head out around the state to ensure everyone plays by the rules. In East Texas, an injured owl is rushed to the vet. On the Gulf, Game Wardens get tough when an oysterman's catch doesn't add up.</desc>
+  </programme>
+  <programme start="20201112010000 +0000" stop="20201112030000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law: Uncuffed</title>
+    <desc lang="en">A routine check takes a dangerous turn when Officer McKee monitors a sleeping bear and Officer Canfield handles a feisty swimmer. Later, New Hampshire's wildlife puts Hannett and MacFadzen to the test when a hostile, injured goose and hawk need rescuing.</desc>
+  </programme>
+  <programme start="20201112030000 +0000" stop="20201112040000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">Up north, Sgt. Lucas checks duck hunters. Down south, Officer Benvenuti and Trainee Crouse question a man suspected of hunting over bait. Later, Sgt. Lucas and Officer Holmes attempt to free a cub stuck inside a trap before its mother returns.</desc>
+  </programme>
+  <programme start="20201112040000 +0000" stop="20201112050000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">Nature lovers show up for Discover Wild New Hampshire Day. Officers conduct an undercover surveillance. Officer McKee rescues a starving owl from the side of the road.  Later on, Mount Monadnock, a perilous rescue of an injured hiker.</desc>
+  </programme>
+  <programme start="20201112050000 +0000" stop="20201112070000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law: Uncuffed</title>
+    <desc lang="en">The New Hampshire Conservation Officers are on the look for a missing hiker but will also have their hands full when trying to relocate a pesky, prickly, porcupine.</desc>
+  </programme>
+  <programme start="20201112070000 +0000" stop="20201112080000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">Fourth of July is one of the biggest weekends of the year in Maine and crowds are out to celebrate. Warden Ryan Fitzpatrick and Caribou PD join forces when a group of fifty teens trash private property during a wild bonfire party.</desc>
+  </programme>
+  <programme start="20201112080000 +0000" stop="20201112090000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">The wardens battle illegal marijuana across the state. It is dangerous work that often sees armed individuals protecting their land. Three teens are involved in an ATV crash that has the wardens stumped.</desc>
+  </programme>
+  <programme start="20201112090000 +0000" stop="20201112100000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">Most of the wildlife in Maine consists of moose, bear and deer. However, on occasion exotic animals make their way into the state and the wardens need to be prepared for anything. This time Sergeant Spahr wrangles a Boa Constrictor.</desc>
+  </programme>
+  <programme start="20201112100000 +0000" stop="20201112110000 +0000" channel="Animal Planet US - East">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">Warden Blanchard shows a high school student there is no such thing as a boring day on the job. Warden LaFlamme is promoted to Corporal of Landowner Relations and passes the responsibilities of his district on to Warden Lounder.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112120000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">A massive tidal surge threatens Josh and Monte as they chase their bounty deep into an arctic storm. Wild Bill hopes to get his broken boat off the dock. The rest of the fleet arrives for the start of Opilio.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112130000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">A blackout leaves Jake Anderson and the crew of the Saga on a dark ship. Unable to fish, Keith Colburn hopes to recruit Josh Harris to save his business.</desc>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112140000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">The deck is plagued with accidents, and winter season rocks the fleet with swells of 20 feet and winds of 40 knots. The Bering Sea takes a brutal toll on Cornelia Marie, and strategy is critical with crabs on the move in the wheelhouse.</desc>
+  </programme>
+  <programme start="20201112140000 +0000" stop="20201112150000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">Sig races to offload his tanks before losing half a million dollars in crab. The Bering Sea doubles down on punishment for one Cornelia Marie greenhorn. Tension between co-captains reaches a breaking point in the Wizard's wheelhouse.</desc>
+  </programme>
+  <programme start="20201112150000 +0000" stop="20201112160000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">It's baptism by fire aboard the Northwestern as Mandy takes her first shift in heavy seas. The Wizard crew battles over one crewman who isn't pulling his weight on deck.  Caught short on bait gear and battered by high seas, Wild Bill changes his strategy.</desc>
+  </programme>
+  <programme start="20201112160000 +0000" stop="20201112170000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">A 150 year supermoon storm wreaks havoc on tides, churning undersea currents that rip pots right off their lines. The Coast Guard attempts a rescue mission in the heart of the storm, while Wild Bill faces his worst nightmare as a greenhorn goes overboard.</desc>
+  </programme>
+  <programme start="20201112170000 +0000" stop="20201112180000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">The Summer Bay crew scrambles to steal one of their own from the Bering Sea's icy grip. Saga and Cornelia Marie battle colossal waves in the supermoon storm.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112190000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">Sig pushes Mandy to invade the Cornelia Marie's ground, sparking a battle for the crab. As the Cornelia Marie's pots get tangled with the Northwestern's, Casey takes extreme measures to defend his turf. A Saga distress signal sends panic across the fleet.</desc>
+  </programme>
+  <programme start="20201112190000 +0000" stop="20201112200000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">A severe arctic gale batters the fleet, forcing captains to fight extreme wind and waves. For the second time, a greenhorn's life hangs in the balance on the Summer Bay. The Saga crew seeks shelter at St. Paul, where tidal forces snap Jake's anchor.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112210000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">As rogue waves threaten to capsize their boats, Jake and Sean must make life or death decisions for their crews on deck. Wild Bill faces a choice that could end his career, and Keith returns to the Wizard put an unexpected end to his brother's rule.</desc>
+  </programme>
+  <programme start="20201112210000 +0000" stop="20201112220000 +0000" channel="Animal Planet US - East">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">The captains take on the steepest waves yet in an epic final surge to hit their quotas. Jake fights through a debilitating crew injury on deck. Josh gambles big on his crab count, while engine failure leaves Sig dead in the water.</desc>
+  </programme>
+  <programme start="20201111000000 +0000" stop="20201111010000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Troi is swept off her feet by a delegate who uses unethical methods to conduct business.</desc>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111040000 +0000" channel="BBC America - East">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">A displaced and naïve teenager is taught karate in order to defend himself against trained bullies.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111063000 +0000" channel="BBC America - East">
+    <title lang="en">The Karate Kid Part II</title>
+    <desc lang="en">Miyagi returns to his homeland with Daniel to visit his dying father and confront old foes.</desc>
+  </programme>
+  <programme start="20201111063000 +0000" stop="20201111093000 +0000" channel="BBC America - East">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">A displaced and naïve teenager is taught karate in order to defend himself against trained bullies.</desc>
+  </programme>
+  <programme start="20201111093000 +0000" stop="20201111110000 +0000" channel="BBC America - East">
+    <title lang="en">Doctor Who</title>
+    <desc lang="en">A mysterious woman who is unable to remember her own name falls from the night sky, and forever changes the lives of Ryan Sinclair, Yasmin Khan, and Graham O'Brien.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111120000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">The Cardassian leader breaks from the Dominion-Breen alliance that creates problems.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111130000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">Bashir makes a startling discovery about the plague that is ravaging the founders.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111160000 +0000" channel="BBC America - East">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">A displaced and naïve teenager is taught karate in order to defend himself against trained bullies.</desc>
+  </programme>
+  <programme start="20201111160000 +0000" stop="20201111183000 +0000" channel="BBC America - East">
+    <title lang="en">The Karate Kid Part II</title>
+    <desc lang="en">Miyagi returns to his homeland with Daniel to visit his dying father and confront old foes.</desc>
+  </programme>
+  <programme start="20201111183000 +0000" stop="20201111213000 +0000" channel="BBC America - East">
+    <title lang="en">Heartbreak Ridge</title>
+    <desc lang="en">A tough marine's final assignment is to get a squadron of young recruits with bad attitudes into fighting shape.</desc>
+  </programme>
+  <programme start="20201111213000 +0000" stop="20201111213000 +0000" channel="BBC America - East">
+    <title lang="en">The Patriot</title>
+    <desc lang="en">A pacifist is drawn into the American War of Independence against his will in order to protect his enlisted son.</desc>
+  </programme>
+  <programme start="20201111213000 +0000" stop="20201112010000 +0000" channel="BBC America - East">
+    <title lang="en">The Patriot</title>
+    <desc lang="en">A pacifist is drawn into the American War of Independence against his will in order to protect his enlisted son.</desc>
+  </programme>
+  <programme start="20201112010000 +0000" stop="20201112040000 +0000" channel="BBC America - East">
+    <title lang="en">The Hunt for Red October</title>
+    <desc lang="en">A Soviet nuclear submarine captain plans to defect to the U.S. during its maiden voyage.</desc>
+  </programme>
+  <programme start="20201112040000 +0000" stop="20201112073000 +0000" channel="BBC America - East">
+    <title lang="en">The Patriot</title>
+    <desc lang="en">A pacifist is drawn into the American War of Independence against his will in order to protect his enlisted son.</desc>
+  </programme>
+  <programme start="20201112073000 +0000" stop="20201112103000 +0000" channel="BBC America - East">
+    <title lang="en">Heartbreak Ridge</title>
+    <desc lang="en">A tough marine's final assignment is to get a squadron of young recruits with bad attitudes into fighting shape.</desc>
+  </programme>
+  <programme start="20201112103000 +0000" stop="20201112104500 +0000" channel="BBC America - East">
+    <title lang="en">Monty Python's Flying Circus</title>
+    <desc lang="en">Creatures from another planet turn people into Scotsmen.</desc>
+  </programme>
+  <programme start="20201112104500 +0000" stop="20201112110000 +0000" channel="BBC America - East">
+    <title lang="en">Monty Python's Flying Circus</title>
+    <desc lang="en">"Hell's Grannies" are a gang of old ladies who terrorize a city.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112120000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">Bashir makes a startling discovery about the plague that is ravaging the founders.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112130000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">Kira conceives a scheme to obtain an enemy weapon.</desc>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112140000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">As he struggles to survive, Odo asks Kira to help the Cardassian Resistance.</desc>
+  </programme>
+  <programme start="20201112140000 +0000" stop="20201112150000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">A Dominion ambush the Cardassia causes Kira, Garak and Damar to flee, barely escaping.</desc>
+  </programme>
+  <programme start="20201112150000 +0000" stop="20201112160000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">The war between the Dominion and the Federation Alliances reaches its final showdown.</desc>
+  </programme>
+  <programme start="20201112160000 +0000" stop="20201112170000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">The war between the Dominion and the Federation Alliances reaches its final showdown.</desc>
+  </programme>
+  <programme start="20201112170000 +0000" stop="20201112180000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">The crew's attempts to mediate a violent dispute between clans is sabotaged.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112190000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">A Romulan defector leads the crew into a showdown that could erupt into a war.</desc>
+  </programme>
+  <programme start="20201112190000 +0000" stop="20201112200000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">A solider is the victim of a government mind control experiment.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112210000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Crusher's abduction by a terrorist group leads to an explosive civil war.</desc>
+  </programme>
+  <programme start="20201112210000 +0000" stop="20201112220000 +0000" channel="BBC America - East">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Q is stripped of his powers and sent to the Enterprise as a lowly humanoid.</desc>
+  </programme>
+  <programme start="20201111000000 +0000" stop="20201111010000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Moment</title>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111023000 +0000" channel="Big Ten Network">
+    <title lang="en">Through the Banks of the Red Cedar</title>
+    <desc lang="en">The fifty-year legacy of Vikings wide-receiver Gene Washington and his journey from the segregated south to MSU. Follow his story alongside decorated teammates Bubba Smith and others as they become the first fully integrated football team in America.</desc>
+  </programme>
+  <programme start="20201111023000 +0000" stop="20201111030000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Story</title>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111040000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Nebraska vs. Northwestern. Ryan Field, Evanston, Ill.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111050000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Michigan vs. Indiana. Memorial Stadium (Bloomington), Bloomington, Ind.</desc>
+  </programme>
+  <programme start="20201111050000 +0000" stop="20201111060000 +0000" channel="Big Ten Network">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">NCAA November 22, 1986 Michigan vs. Ohio State.</desc>
+  </programme>
+  <programme start="20201111060000 +0000" stop="20201111070000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Minnesota vs. Illinois. Memorial Stadium Illinois, Champaign, Ill.</desc>
+  </programme>
+  <programme start="20201111070000 +0000" stop="20201111080000 +0000" channel="Big Ten Network">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">NCAA October 2, 1999 Purdue vs. Michigan.</desc>
+  </programme>
+  <programme start="20201111080000 +0000" stop="20201111100000 +0000" channel="Big Ten Network">
+    <title lang="en">Soccer Classics</title>
+    <desc lang="en">NCAA Women's. 2018 University of Wisconsin (Madison) vs. Michigan.</desc>
+  </programme>
+  <programme start="20201111100000 +0000" stop="20201111110000 +0000" channel="Big Ten Network">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">NCAA November 30, 2019 University of Wisconsin (Madison) vs. Minnesota.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111130000 +0000" channel="Big Ten Network">
+    <title lang="en">Soccer Classics</title>
+    <desc lang="en">NCAA 2017 Michigan State vs. Michigan.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111150000 +0000" channel="Big Ten Network">
+    <title lang="en">Soccer Classics</title>
+    <desc lang="en">NCAA Women's. 2014 Rutgers vs. Penn State.</desc>
+  </programme>
+  <programme start="20201111150000 +0000" stop="20201111170000 +0000" channel="Big Ten Network">
+    <title lang="en">Field Hockey</title>
+    <desc lang="en">NCAA Women's. 2018 Ohio State vs. Rutgers.</desc>
+  </programme>
+  <programme start="20201111170000 +0000" stop="20201111180000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Michigan vs. Indiana. Memorial Stadium (Bloomington), Bloomington, Ind.</desc>
+  </programme>
+  <programme start="20201111180000 +0000" stop="20201111190000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Moment</title>
+  </programme>
+  <programme start="20201111190000 +0000" stop="20201111200000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Michigan State vs. Iowa. Kinnick Stadium, Iowa City, Iowa.</desc>
+  </programme>
+  <programme start="20201111200000 +0000" stop="20201111210000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Minnesota vs. Illinois. Memorial Stadium Illinois, Champaign, Ill.</desc>
+  </programme>
+  <programme start="20201111210000 +0000" stop="20201111220000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Rutgers vs. Ohio State. Ohio Stadium, Columbus, Ohio.</desc>
+  </programme>
+  <programme start="20201111220000 +0000" stop="20201111230000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Nebraska vs. Northwestern. Ryan Field, Evanston, Ill.</desc>
+  </programme>
+  <programme start="20201111230000 +0000" stop="20201112000000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112003000 +0000" channel="Big Ten Network">
+    <title lang="en">The Journey: Big Ten Football</title>
+  </programme>
+  <programme start="20201112003000 +0000" stop="20201112023000 +0000" channel="Big Ten Network">
+    <title lang="en">Volleyball</title>
+    <desc lang="en">NCAA Women's. 2019 Purdue vs. Michigan.</desc>
+  </programme>
+  <programme start="20201112023000 +0000" stop="20201112043000 +0000" channel="Big Ten Network">
+    <title lang="en">Volleyball</title>
+    <desc lang="en">NCAA Women's. 2011 Penn State vs. USC.</desc>
+  </programme>
+  <programme start="20201112043000 +0000" stop="20201112053000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112053000 +0000" stop="20201112060000 +0000" channel="Big Ten Network">
+    <title lang="en">The Journey: Big Ten Football</title>
+  </programme>
+  <programme start="20201112060000 +0000" stop="20201112070000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Maryland (College Park) vs. Penn State. Beaver Stadium, University Park, Pa.</desc>
+  </programme>
+  <programme start="20201112070000 +0000" stop="20201112080000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112080000 +0000" stop="20201112100000 +0000" channel="Big Ten Network">
+    <title lang="en">Volleyball</title>
+    <desc lang="en">NCAA Women's. 2011 Iowa vs. Indiana.</desc>
+  </programme>
+  <programme start="20201112100000 +0000" stop="20201112110000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112113000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Moment</title>
+  </programme>
+  <programme start="20201112113000 +0000" stop="20201112120000 +0000" channel="Big Ten Network">
+    <title lang="en">The Journey: Big Ten Football</title>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112130000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112133000 +0000" channel="Big Ten Network">
+    <title lang="en">Spartans All-Access</title>
+  </programme>
+  <programme start="20201112133000 +0000" stop="20201112140000 +0000" channel="Big Ten Network">
+    <title lang="en">The Heartland</title>
+    <desc lang="en">The Hawkeye head coach provides his perspective on Iowa football.</desc>
+  </programme>
+  <programme start="20201112140000 +0000" stop="20201112150000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112150000 +0000" stop="20201112153000 +0000" channel="Big Ten Network">
+    <title lang="en">The Journey: Big Ten Football</title>
+  </programme>
+  <programme start="20201112153000 +0000" stop="20201112160000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Story</title>
+  </programme>
+  <programme start="20201112160000 +0000" stop="20201112170000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20201112170000 +0000" stop="20201112180000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Nebraska vs. Northwestern. Ryan Field, Evanston, Ill.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112190000 +0000" channel="Big Ten Network">
+    <title lang="en">B1G Football in 60</title>
+    <desc lang="en">NCAA  Michigan vs. Indiana. Memorial Stadium (Bloomington), Bloomington, Ind.</desc>
+  </programme>
+  <programme start="20201112190000 +0000" stop="20201112200000 +0000" channel="Big Ten Network">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">NCAA September 27, 2008 University of Wisconsin (Madison) vs. Michigan.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112210000 +0000" channel="Big Ten Network">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">NCAA November 16, 2019 Minnesota vs. Iowa.</desc>
+  </programme>
+  <programme start="20201112210000 +0000" stop="20201112213000 +0000" channel="Big Ten Network">
+    <title lang="en">The B1G Moment</title>
+  </programme>
+  <programme start="20201112213000 +0000" stop="20201112220000 +0000" channel="Big Ten Network">
+    <title lang="en">The Journey: Big Ten Football</title>
+  </programme>
+  <programme start="20201112220000 +0000" stop="20201112230000 +0000" channel="Big Ten Network">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">NCAA October 29, 2011 Iowa vs. Minnesota.</desc>
+  </programme>
+  <programme start="20201111000000 +0000" stop="20201111020000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo! Mask of the Blue Falcon</title>
+    <desc lang="en">The lead actor of the Blue Falcon comic books swears his revenge on Hollywood for being left out.</desc>
+  </programme>
+  <programme start="20201111020000 +0000" stop="20201111023000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo! Mystery Inc.</title>
+    <desc lang="en">When the gang returns, they find the entire town of Crystal Cove enslaved by Professor Pericles and excavating beneath the city for the cursed treasure.</desc>
+  </programme>
+  <programme start="20201111023000 +0000" stop="20201111030000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo! Mystery Inc.</title>
+    <desc lang="en">Professor Pericles sends Fred into an apocalyptic future in order to learn the location of the Planispheric Disc.</desc>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111031500 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">Bunnicula the vampire rabbit drains the juice of vegetables instead of drinking blood.</desc>
+  </programme>
+  <programme start="20201111031500 +0000" stop="20201111033000 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">Bunnicula the vampire rabbit drains the juice of vegetables instead of drinking blood.</desc>
+  </programme>
+  <programme start="20201111033000 +0000" stop="20201111034500 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">Bunnicula the vampire rabbit drains the juice of vegetables instead of drinking blood.</desc>
+  </programme>
+  <programme start="20201111034500 +0000" stop="20201111040000 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">Bunnicula the vampire rabbit drains the juice of vegetables instead of drinking blood.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111050000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201111050000 +0000" stop="20201111053000 +0000" channel="Boomerang">
+    <title lang="en">The Powerpuff Girls</title>
+    <desc lang="en">Someone is defacing all the posters and statues of Townsville with make-up.</desc>
+  </programme>
+  <programme start="20201111053000 +0000" stop="20201111060000 +0000" channel="Boomerang">
+    <title lang="en">Dexter's Laboratory</title>
+    <desc lang="en">Dee Dee gets a song stung in her head; Dee Dee brings her stuffed animals to life; Dexter invents hypnosis ink to get everyone else to do his chores.</desc>
+  </programme>
+  <programme start="20201111060000 +0000" stop="20201111063000 +0000" channel="Boomerang">
+    <title lang="en">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="en">Two children trick the Grim Reaper into being their best friend.</desc>
+  </programme>
+  <programme start="20201111063000 +0000" stop="20201111070000 +0000" channel="Boomerang">
+    <title lang="en">Courage the Cowardly Dog</title>
+    <desc lang="en">A dog is ready to protect his elderly parents from eye-popping, paranormal events.</desc>
+  </programme>
+  <programme start="20201111070000 +0000" stop="20201111080000 +0000" channel="Boomerang">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Features the antics of Bugs Bunny, Daffy Duck, Elmer Fudd, Porky Pig, Sylvester, and more.</desc>
+  </programme>
+  <programme start="20201111080000 +0000" stop="20201111083000 +0000" channel="Boomerang">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">These tiny blue creatures inhabit a magical forest along with wizards, imps and kings.</desc>
+  </programme>
+  <programme start="20201111083000 +0000" stop="20201111090000 +0000" channel="Boomerang">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">These tiny blue creatures inhabit a magical forest along with wizards, imps and kings.</desc>
+  </programme>
+  <programme start="20201111090000 +0000" stop="20201111093000 +0000" channel="Boomerang">
+    <title lang="en">Garfield and Friends</title>
+    <desc lang="en">Garfield's imagination goes wild as he plays in an empty cardboard box.</desc>
+  </programme>
+  <programme start="20201111093000 +0000" stop="20201111100000 +0000" channel="Boomerang">
+    <title lang="en">Garfield and Friends</title>
+    <desc lang="en">After a sleepless night, Garfield’s morning nap is disturbed by Binky the Clown.</desc>
+  </programme>
+  <programme start="20201111100000 +0000" stop="20201111103000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201111103000 +0000" stop="20201111110000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111113000 +0000" channel="Boomerang">
+    <title lang="en">Baby Looney Tunes</title>
+    <desc lang="en">The misadventures of the toddler versions of Bugs Bunny, Daffy and the entire gang.</desc>
+  </programme>
+  <programme start="20201111113000 +0000" stop="20201111120000 +0000" channel="Boomerang">
+    <title lang="en">Baby Looney Tunes</title>
+    <desc lang="en">The misadventures of the toddler versions of Bugs Bunny, Daffy and the entire gang.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111123000 +0000" channel="Boomerang">
+    <title lang="en">A Pup Named Scooby-Doo</title>
+    <desc lang="en">A group of kids run a detective agency from their clubhouse with the help of their dog.</desc>
+  </programme>
+  <programme start="20201111123000 +0000" stop="20201111130000 +0000" channel="Boomerang">
+    <title lang="en">A Pup Named Scooby-Doo</title>
+    <desc lang="en">A group of kids run a detective agency from their clubhouse with the help of their dog.</desc>
+  </programme>
+  <programme start="20201111130000 +0000" stop="20201111133000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">The cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201111133000 +0000" stop="20201111140000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">The cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201111140000 +0000" stop="20201111143000 +0000" channel="Boomerang">
+    <title lang="en">Dorothy and the Wizard of Oz</title>
+  </programme>
+  <programme start="20201111143000 +0000" stop="20201111150000 +0000" channel="Boomerang">
+    <title lang="en">Dorothy and the Wizard of Oz</title>
+  </programme>
+  <programme start="20201111150000 +0000" stop="20201111160000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201111160000 +0000" stop="20201111170000 +0000" channel="Boomerang">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Features the antics of Bugs Bunny, Daffy Duck, Elmer Fudd, Porky Pig, Sylvester, and more.</desc>
+  </programme>
+  <programme start="20201111170000 +0000" stop="20201111173000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo and Scrappy-Doo</title>
+    <desc lang="en">Scooby-Doo, his son Scrappy-Doo and the gang travel around solving mysteries.</desc>
+  </programme>
+  <programme start="20201111173000 +0000" stop="20201111180000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo and Scrappy-Doo</title>
+    <desc lang="en">Scooby-Doo, his son Scrappy-Doo and the gang travel around solving mysteries.</desc>
+  </programme>
+  <programme start="20201111180000 +0000" stop="20201111190000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201111190000 +0000" stop="20201111200000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201111200000 +0000" stop="20201111203000 +0000" channel="Boomerang">
+    <title lang="en">The Looney Tunes Show</title>
+    <desc lang="en">Bugs Bunny and Daffy Duck live together as roommates.</desc>
+  </programme>
+  <programme start="20201111203000 +0000" stop="20201111210000 +0000" channel="Boomerang">
+    <title lang="en">The Looney Tunes Show</title>
+    <desc lang="en">Bugs Bunny and Daffy Duck live together as roommates.</desc>
+  </programme>
+  <programme start="20201111210000 +0000" stop="20201111211500 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Uncle Grandpa and his merry gang travel in an RV bringing fun everywhere they go.</desc>
+  </programme>
+  <programme start="20201111211500 +0000" stop="20201111213000 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Uncle Grandpa and his merry gang travel in an RV bringing fun everywhere they go.</desc>
+  </programme>
+  <programme start="20201111213000 +0000" stop="20201111214500 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Pizza Steve wants to prove he's a chess pro when he faces off against Mr. Gus in a game.</desc>
+  </programme>
+  <programme start="20201111214500 +0000" stop="20201111220000 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Pizza Steve's past is uncovered by Uncle Grandpa and the gang, which leads them to question who Pizza Steve really is.</desc>
+  </programme>
+  <programme start="20201111220000 +0000" stop="20201111223000 +0000" channel="Boomerang">
+    <title lang="en">What's New Scooby-Doo?</title>
+    <desc lang="en">The gang travels to New Mexico and finds a giant, ancient legendary bird that carries the locals off to its mysterious lair.</desc>
+  </programme>
+  <programme start="20201111223000 +0000" stop="20201111230000 +0000" channel="Boomerang">
+    <title lang="en">What's New Scooby-Doo?</title>
+    <desc lang="en">Shaggy wins a tour of the Scooby Snacks factory, and the gang must battle a monster oozing in Scooby Snack stuff.</desc>
+  </programme>
+  <programme start="20201111230000 +0000" stop="20201111231000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201111231000 +0000" stop="20201111232000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201111232000 +0000" stop="20201111233000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201111233000 +0000" stop="20201111234000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201111234000 +0000" stop="20201111235000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201111235000 +0000" stop="20201112000000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112013000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry: Shiver Me Whiskers</title>
+    <desc lang="en">With hopes of finding the infamous pirate Captain Red on a sea voyage, Tom suddenly stumbles upon a bottle containing a treasure map. However, Jerry, a spunky stowaway mouse, doesn't intend on giving up the map to fortune that easily.</desc>
+  </programme>
+  <programme start="20201112013000 +0000" stop="20201112014000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112014000 +0000" stop="20201112015000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112015000 +0000" stop="20201112020000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112020000 +0000" stop="20201112023000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo! Mystery Inc.</title>
+    <desc lang="en">Close to finally unraveling what happened to the original Mystery Incorporated kids, the gang finds 'The Obliteratrix' standing in their way.</desc>
+  </programme>
+  <programme start="20201112023000 +0000" stop="20201112030000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo! Mystery Inc.</title>
+    <desc lang="en">When Crystal Cove is threatened by a herd of horrible, mutated cattle, the Mystery Inc. gang discover that Professor Pericles is behind the plot.</desc>
+  </programme>
+  <programme start="20201112030000 +0000" stop="20201112031500 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">After an evil portrait swallows up Mina and her dad, the pets must find a way to break the spell.</desc>
+  </programme>
+  <programme start="20201112031500 +0000" stop="20201112033000 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">When Mina's imaginary friend returns to her life, Bunnicula is set on a collision course with a supernatural creature he's never had to face before.</desc>
+  </programme>
+  <programme start="20201112033000 +0000" stop="20201112034500 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">While trying to persuade him to clean the house, Chester gives Bunnicula too much vegetable juice.</desc>
+  </programme>
+  <programme start="20201112034500 +0000" stop="20201112040000 +0000" channel="Boomerang">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">Bunnicula the vampire rabbit drains the juice of vegetables instead of drinking blood.</desc>
+  </programme>
+  <programme start="20201112040000 +0000" stop="20201112050000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201112050000 +0000" stop="20201112053000 +0000" channel="Boomerang">
+    <title lang="en">The Powerpuff Girls</title>
+    <desc lang="en">Mojo is sentenced to do community service and begins teaching English.</desc>
+  </programme>
+  <programme start="20201112053000 +0000" stop="20201112060000 +0000" channel="Boomerang">
+    <title lang="en">Dexter's Laboratory</title>
+    <desc lang="en">Dexter shrinks his parents; And, Dexter's invention is mistaken for a hat; Dexter and Dee Dee realize they make a good superhero team.</desc>
+  </programme>
+  <programme start="20201112060000 +0000" stop="20201112063000 +0000" channel="Boomerang">
+    <title lang="en">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="en">Two children trick the Grim Reaper into being their best friend.</desc>
+  </programme>
+  <programme start="20201112063000 +0000" stop="20201112070000 +0000" channel="Boomerang">
+    <title lang="en">Courage the Cowardly Dog</title>
+    <desc lang="en">A dog is ready to protect his elderly parents from eye-popping, paranormal events.</desc>
+  </programme>
+  <programme start="20201112070000 +0000" stop="20201112080000 +0000" channel="Boomerang">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Features the antics of Bugs Bunny, Daffy Duck, Elmer Fudd, Porky Pig, Sylvester, and more.</desc>
+  </programme>
+  <programme start="20201112080000 +0000" stop="20201112083000 +0000" channel="Boomerang">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">These tiny blue creatures inhabit a magical forest along with wizards, imps and kings.</desc>
+  </programme>
+  <programme start="20201112083000 +0000" stop="20201112090000 +0000" channel="Boomerang">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">These tiny blue creatures inhabit a magical forest along with wizards, imps and kings.</desc>
+  </programme>
+  <programme start="20201112090000 +0000" stop="20201112093000 +0000" channel="Boomerang">
+    <title lang="en">Garfield and Friends</title>
+    <desc lang="en">Featuring the antics of a wisecracking, nap-taking, lasagna-loving, fat cat and his pals.</desc>
+  </programme>
+  <programme start="20201112093000 +0000" stop="20201112100000 +0000" channel="Boomerang">
+    <title lang="en">Garfield and Friends</title>
+    <desc lang="en">Jon is told to buy a new TV set when his old one breaks; When Orson decides to make his own movie, the chicken-stealing fox makes a cameo; an animal activist thinks Garfield is starving, and Jon’s to blame.</desc>
+  </programme>
+  <programme start="20201112100000 +0000" stop="20201112103000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201112103000 +0000" stop="20201112110000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112113000 +0000" channel="Boomerang">
+    <title lang="en">Baby Looney Tunes</title>
+    <desc lang="en">The misadventures of the toddler versions of Bugs Bunny, Daffy and the entire gang.</desc>
+  </programme>
+  <programme start="20201112113000 +0000" stop="20201112120000 +0000" channel="Boomerang">
+    <title lang="en">Baby Looney Tunes</title>
+    <desc lang="en">The misadventures of the toddler versions of Bugs Bunny, Daffy and the entire gang.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112123000 +0000" channel="Boomerang">
+    <title lang="en">A Pup Named Scooby-Doo</title>
+    <desc lang="en">A group of kids run a detective agency from their clubhouse with the help of their dog.</desc>
+  </programme>
+  <programme start="20201112123000 +0000" stop="20201112130000 +0000" channel="Boomerang">
+    <title lang="en">A Pup Named Scooby-Doo</title>
+    <desc lang="en">A group of kids run a detective agency from their clubhouse with the help of their dog.</desc>
+  </programme>
+  <programme start="20201112130000 +0000" stop="20201112133000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">The cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201112133000 +0000" stop="20201112140000 +0000" channel="Boomerang">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">The cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201112140000 +0000" stop="20201112143000 +0000" channel="Boomerang">
+    <title lang="en">Dorothy and the Wizard of Oz</title>
+  </programme>
+  <programme start="20201112143000 +0000" stop="20201112150000 +0000" channel="Boomerang">
+    <title lang="en">Dorothy and the Wizard of Oz</title>
+  </programme>
+  <programme start="20201112150000 +0000" stop="20201112160000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201112160000 +0000" stop="20201112170000 +0000" channel="Boomerang">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Features the antics of Bugs Bunny, Daffy Duck, Elmer Fudd, Porky Pig, Sylvester, and more.</desc>
+  </programme>
+  <programme start="20201112170000 +0000" stop="20201112173000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo and Scrappy-Doo</title>
+    <desc lang="en">Scooby-Doo, his son Scrappy-Doo and the gang travel around solving mysteries.</desc>
+  </programme>
+  <programme start="20201112173000 +0000" stop="20201112180000 +0000" channel="Boomerang">
+    <title lang="en">Scooby-Doo and Scrappy-Doo</title>
+    <desc lang="en">Scooby-Doo, his son Scrappy-Doo and the gang travel around solving mysteries.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112190000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201112190000 +0000" stop="20201112200000 +0000" channel="Boomerang">
+    <title lang="en">Tom &amp; Jerry</title>
+    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112203000 +0000" channel="Boomerang">
+    <title lang="en">The Looney Tunes Show</title>
+    <desc lang="en">Bugs Bunny and Daffy Duck live together as roommates.</desc>
+  </programme>
+  <programme start="20201112203000 +0000" stop="20201112210000 +0000" channel="Boomerang">
+    <title lang="en">The Looney Tunes Show</title>
+    <desc lang="en">Bugs Bunny and Daffy Duck live together as roommates.</desc>
+  </programme>
+  <programme start="20201112210000 +0000" stop="20201112211500 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Uncle Grandpa and his merry gang travel in an RV bringing fun everywhere they go.</desc>
+  </programme>
+  <programme start="20201112211500 +0000" stop="20201112213000 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Uncle Grandpa and his merry gang travel in an RV bringing fun everywhere they go.</desc>
+  </programme>
+  <programme start="20201112213000 +0000" stop="20201112214500 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Uncle Grandpa and his merry gang travel in an RV bringing fun everywhere they go.</desc>
+  </programme>
+  <programme start="20201112214500 +0000" stop="20201112220000 +0000" channel="Boomerang">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Uncle Grandpa could really use the help of another Uncle Grandpa to get him out of trouble.</desc>
+  </programme>
+  <programme start="20201112220000 +0000" stop="20201112223000 +0000" channel="Boomerang">
+    <title lang="en">What's New Scooby-Doo?</title>
+    <desc lang="en">While visiting the hex girls at a Transylvania Castle, the gang runs into a real-life vampire.</desc>
+  </programme>
+  <programme start="20201112223000 +0000" stop="20201112230000 +0000" channel="Boomerang">
+    <title lang="en">What's New Scooby-Doo?</title>
+    <desc lang="en">The Secret Six puppies are 'dog-napped' from the dog show, and it's up to Scooby and the gang to rescue them.</desc>
+  </programme>
+  <programme start="20201112230000 +0000" stop="20201112231000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112231000 +0000" stop="20201112232000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112232000 +0000" stop="20201112233000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112233000 +0000" stop="20201112234000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201112234000 +0000" stop="20201112235000 +0000" channel="Boomerang">
+    <title lang="en">The Tom and Jerry Show</title>
+    <desc lang="en">Tom and Jerry are back for brand new adventures.</desc>
+  </programme>
+  <programme start="20201111000000 +0000" stop="20201111003000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Chrisley Knows Best</title>
+    <desc lang="en">The Chrisley's take it to the gutter with a family bowling tournament. And while Julie waits to hear if her cancer is in remission, the family plans a surprise for her.</desc>
+  </programme>
+  <programme start="20201111003000 +0000" stop="20201111010000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Chrisley Knows Best</title>
+    <desc lang="en">Todd and Chase team up for a not so friendly golf match against Jay Demarcus.  And Savannah attempts to move in with Nanny Faye only to discover there's no room at the inn!</desc>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111013000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Chrisley Knows Best</title>
+    <desc lang="en">Todd and Savannah butt heads while planning a fashion show for charity. Meanwhile, Chase helps Nanny Faye apply for a job as a Segway tour guide to win a bet with Todd.</desc>
+  </programme>
+  <programme start="20201111013000 +0000" stop="20201111020000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Chrisley Knows Best</title>
+    <desc lang="en">Todd highjacks Chase's 21st birthday plans and forces some father/son bonding time on him. Meanwhile, Julie tries to get Grayson ready for football tryouts but knows nothing about football.</desc>
+  </programme>
+  <programme start="20201111020000 +0000" stop="20201111023000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Chrisley Knows Best</title>
+    <desc lang="en">Todd gets more than he bargained for when he offers to watch a house full of children. And Julie struggles to let her hair down on a girls' weekend.</desc>
+  </programme>
+  <programme start="20201111023000 +0000" stop="20201111030000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Don't Be Tardy...</title>
+    <desc lang="en">Follow Kim Zolciak as she moves on from The Real Housewives and takes care of her family.</desc>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111033000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Don't Be Tardy...</title>
+    <desc lang="en">With half of the trip behind them, the Biermanns are ready to tackle the legendary Route 66. Only one problem, the RV’s busted.</desc>
+  </programme>
+  <programme start="20201111033000 +0000" stop="20201111040000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Watch What Happens Live</title>
+    <desc lang="en">Andy Cohen sits down with guests from Bravo's series as well as the entertainment world.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111043000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Terry’s eldest daughter Rachel’s new real estate career needs help, Lacey’s husband doesn’t want to move to Texas and Erin has been keeping a secret from him about a recent change to her appearance.</desc>
+  </programme>
+  <programme start="20201111043000 +0000" stop="20201111050000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">The Bradshaw clan travels to Dallas as Terry is hosting (and driving in) the big Monster Jam truck rally. When Terry suffers from a panic attack, an old sibling rivalry is forced to come to a head.</desc>
+  </programme>
+  <programme start="20201111050000 +0000" stop="20201111053100 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Rachel is with the wrong guy and everyone in the family can see it but her. While Terry and Zurie get payback on Tammy after years of her pranks, Lacey and Noah consider moving back to Texas to be closer to family.</desc>
+  </programme>
+  <programme start="20201111053100 +0000" stop="20201111060100 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Terry is invited to Washington D.C. to sing with Rob Gronkowski at the USO. While he brings his family along to meet the troops, Rachel gets her mojo back and falls for a marine.</desc>
+  </programme>
+  <programme start="20201111060100 +0000" stop="20201111063200 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">As the Coronavirus pandemic grips the nation, Terry invites the family to hunker down with him at the ranch, driving everyone crazy.</desc>
+  </programme>
+  <programme start="20201111063200 +0000" stop="20201111070200 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Terry and the girls get involved in Rachel’s love life, resulting in a competition to find her Mr. Right. The family tries to talk Terry out of agreeing to be a potential spokesperson for a certain product.</desc>
+  </programme>
+  <programme start="20201111070200 +0000" stop="20201111073100 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Terry prepares to announce at a NASCAR race, which will be his first public appearance since the pandemic started. Wanting to look his best, he tries getting back into shape while trying to convince Rachel to sing at the speedway.</desc>
+  </programme>
+  <programme start="20201111073100 +0000" stop="20201111080000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Tammy grows suspicious of Terry’s romantic anniversary surprise trip to Paris. Meanwhile, Zurie joins in on the Bradshaw family tradition and finds her passion for showing horses.</desc>
+  </programme>
+  <programme start="20201111080000 +0000" stop="20201111090000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Bradshaw Bunch</title>
+    <desc lang="en">Terry and Tammy attempt one last time to try and convince Lacey and Noah to move to Texas by offering to buy them a restaurant. Meanwhile, Rachel introduces her new guy to the family by pulling a major prank on Terry.</desc>
+  </programme>
+  <programme start="20201111090000 +0000" stop="20201111100000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Kelly Clarkson Show</title>
+    <desc lang="en">Kelly sings 'Maybe It Was Memphis' by Pam Tillis. Plus, Danielle Kartes makes chicken nachos and Carly Pearce performs.</desc>
+  </programme>
+  <programme start="20201111100000 +0000" stop="20201111110000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111115800 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New Jersey</title>
+    <desc lang="en">Meet Caroline, Danielle, Dina, Jacqueline and Teresa - five of the most affluent and drama-filled women in the Garden State.</desc>
+  </programme>
+  <programme start="20201111115800 +0000" stop="20201111125600 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New Jersey</title>
+    <desc lang="en">The ladies bring out the drama, but the kids steal the show.</desc>
+  </programme>
+  <programme start="20201111125600 +0000" stop="20201111135700 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New Jersey</title>
+    <desc lang="en">The claws come out and rumours begin to swirl about Danielle, and Jacqueline's family puts pressure on her to end the friendship.</desc>
+  </programme>
+  <programme start="20201111135700 +0000" stop="20201111145800 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New Jersey</title>
+    <desc lang="en">Teresa is busy juggling life, the ladies confront Danielle's past.</desc>
+  </programme>
+  <programme start="20201111145800 +0000" stop="20201111155900 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New Jersey</title>
+    <desc lang="en">The ladies visit Atlantic City for a girl's night out.</desc>
+  </programme>
+  <programme start="20201111155900 +0000" stop="20201111170000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New Jersey</title>
+    <desc lang="en">Rumors continue to spread, leading to an intense dinner party thrown by Teresa.</desc>
+  </programme>
+  <programme start="20201111170000 +0000" stop="20201111180000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Jeana's son Shane feels pressure of graduation and becoming the third generation of his family to play pro baseball while his sister feels the sting of sibling rivalry. Meanwhile, Jo struggles with her life as the fiancée of a wealthy old man.</desc>
+  </programme>
+  <programme start="20201111180000 +0000" stop="20201111190000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Jeana decides it is perfect time to take her kids on vacation. Shane finds romance. Kimberly is feeling pressure to upgrade her car and decides to go shopping for something pricier.</desc>
+  </programme>
+  <programme start="20201111190000 +0000" stop="20201111195800 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">While Jeana, Matt and Colton accompany Shane to a college Arizona where he tries out for the coach of the baseball team, Kimberly goes wild during a girl-only weekend in Palm Springs. Meanwhile, Vicki and Lauri get a home treatment of Botox.</desc>
+  </programme>
+  <programme start="20201111195800 +0000" stop="20201111205900 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Kimberly decides to come clean about her crazy girls-only weekend in Palm Springs before her and Scott go house hunting with Jeana's help. Meanwhile, an unhappy Slade decides to retaliate when Jo goes back to work by hiring a sexy new assistant.</desc>
+  </programme>
+  <programme start="20201111205900 +0000" stop="20201111220000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">While Jeana's son Colton breaks his hand in a fight about drugs, Kimberly and her family hire a dog guru to deal with their out-of-control dog. Meanwhile, Lauri becomes upset when Ashley refuses to attend a celebration for the Josh's release.</desc>
+  </programme>
+  <programme start="20201111220000 +0000" stop="20201111230000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Kara spends thousands on clothes for school while Jeana struggles with the escalating sibling rivalry of Kara and Shane, who has just received a brand new car. Meanwhile Kimberly waits to hear from her doctor about a very serious health threat.</desc>
+  </programme>
+  <programme start="20201111230000 +0000" stop="20201112000000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Jeana shops with her son for some last minute items as he prepares to leave for college, before she decides it is time to bond with her daughter Kara by inviting her to an exclusive diamond-shopping trip. Jo and Slade have an emotional confrontation.</desc>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112010000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Shannon's got a new house, boyfriend, body and revamped food line to celebrate and is ready to show it all off at her housewarming party. Emily is hopeful that she can finally make peace with Shannon.</desc>
+  </programme>
+  <programme start="20201112010000 +0000" stop="20201112020000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Braunwyn attempts to reconcile with Gina, and after a disagreement, the two finally bond over tequila. Emily is shocked when she finds out, while Elizabeth speaks out about her upcoming divorce, and the stress it's putting on her.</desc>
+  </programme>
+  <programme start="20201112020000 +0000" stop="20201112030000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Braunwyn opens up to Gina about her lifelong struggle with alcohol, and their friendship takes a drastic turn. Jacob experiments with drag, Sophie continues writing her book, and Elizabeth struggles to process her sister's issues.</desc>
+  </programme>
+  <programme start="20201112030000 +0000" stop="20201112041500 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <desc lang="en">Salt Lake City is more than just mountains and religion. When Jen throws a Tongan themed birthday party for her close friend Meredith, it's anything but a celebration when she confronts Mary about insensitive comments made about her family.</desc>
+  </programme>
+  <programme start="20201112041500 +0000" stop="20201112044500 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Watch What Happens Live</title>
+    <desc lang="en">Andy Cohen sits down with guests from Bravo's series as well as the entertainment world.</desc>
+  </programme>
+  <programme start="20201112044500 +0000" stop="20201112060000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <desc lang="en">Salt Lake City is more than just mountains and religion. When Jen throws a Tongan themed birthday party for her close friend Meredith, it's anything but a celebration when she confronts Mary about insensitive comments made about her family.</desc>
+  </programme>
+  <programme start="20201112060000 +0000" stop="20201112070000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Braunwyn opens up to Gina about her lifelong struggle with alcohol, and their friendship takes a drastic turn. Jacob experiments with drag, Sophie continues writing her book, and Elizabeth struggles to process her sister's issues.</desc>
+  </programme>
+  <programme start="20201112070000 +0000" stop="20201112080000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <desc lang="en">Salt Lake City is more than just mountains and religion. When Jen throws a Tongan themed birthday party for her close friend Meredith, it's anything but a celebration when she confronts Mary about insensitive comments made about her family.</desc>
+  </programme>
+  <programme start="20201112080000 +0000" stop="20201112090000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">The cast and producers give an uncensored look back on the show’s infamous eighth season.  The special reveals the drama behind the drama with new behind-the-scenes insight and never-before-seen footage.</desc>
+  </programme>
+  <programme start="20201112090000 +0000" stop="20201112100000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Kelly Clarkson Show</title>
+    <desc lang="en">Kelly celebrates Veteran's Day and sings 'America the Beautiful' by Ray Charles.</desc>
+  </programme>
+  <programme start="20201112100000 +0000" stop="20201112110000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112115800 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Jill, Bethenny, Alex and LuAnn get together at a swanky New York restaurant. LuAnn and Alex hit it off, while Bethenny gets annoyed with what she perceives as Alex's pretentious behavior.</desc>
+  </programme>
+  <programme start="20201112115800 +0000" stop="20201112125600 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Bethenny meets Alex to teach her healthy cooking techniques for her family. Bethenny confides in Alex that she and Jason are having trouble. The van Kempens get ready for a big night out. Ramona gets Avery and her friends ready for a school dance.</desc>
+  </programme>
+  <programme start="20201112125600 +0000" stop="20201112135700 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">LuAnn has Bethenny over to her house for drinks, where Bethenny gets her opinion on her relationship with Jason. At a suite at the Hotel Chandelier, Alex and Simon get made up for opening night at the opera, their biggest event of the year.</desc>
+  </programme>
+  <programme start="20201112135700 +0000" stop="20201112145800 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">The de Lesseps take a family trip to the Statue of Liberty, where the Count talks to the kids about the significance of the statue and their family history. Bobby takes Jill for a romantic dinner, and surprises her with a gift of lingerie.</desc>
+  </programme>
+  <programme start="20201112145800 +0000" stop="20201112155900 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <desc lang="en">Salt Lake City is more than just mountains and religion. When Jen throws a Tongan themed birthday party for her close friend Meredith, it's anything but a celebration when she confronts Mary about insensitive comments made about her family.</desc>
+  </programme>
+  <programme start="20201112155900 +0000" stop="20201112170000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">A new employee at SUR has a hard time overcoming gossip about her past.</desc>
+  </programme>
+  <programme start="20201112170000 +0000" stop="20201112180000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">Lisa enlists the help of her SUR staff to celebrate Gay Pride with a parade float, but when Stassi catches Scheana and Jax flirting, the fighting and fallout threaten to ruin the day. Jax attempts to get his relationship with Stassi back on track.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112190000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">After the blow up at the Gay Pride event, Lisa struggles to keep the staff's personal conflicts outside of SUR. At a photo shoot, Kristen has an awkward encounter with someone from Tom's past. Meanwhile, Jax makes a bold play to win back Stassi.</desc>
+  </programme>
+  <programme start="20201112190000 +0000" stop="20201112195800 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">The SUR staff heads to Las Vegas for Stassi's birthday and leaves Lisa very short handed at the restaurant on her busiest night, but Scheana stays back to make sure things run smoothly. Stassi uninvites Jax so she spends the weekend with her new man.</desc>
+  </programme>
+  <programme start="20201112195800 +0000" stop="20201112205900 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">Upon Stassi's return to SUR, Jax has started dating one of her friends, and Katie and Kristen have turned against her. When Lisa calls a staff meeting to put a stop to the infighting, Laura-Leigh explodes on Stassi for sending her bullying texts.</desc>
+  </programme>
+  <programme start="20201112205900 +0000" stop="20201112220000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">When Jax and Laura-Leigh are caught having sex in SUR's bathroom and Frank insults a customer, Lisa is forced to crack the whip on her staff, resulting in a firing. Stassi thinks her life is back on track when she makes up with her old friend Katie.</desc>
+  </programme>
+  <programme start="20201112220000 +0000" stop="20201112230000 +0000" channel="Bravo USA - Eastern Feed">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">When Lisa threatens to fire Stassi for neglecting her responsibilities at SUR and as a writer for Lisa's website, Stassi must plead to keep her jobs. Scheana has an emotional breakdown at work when Lisa forbids her to work a party Brandi is attending.</desc>
   </programme>
   <programme start="20201111010000 +0000" stop="20201111030000 +0000" channel="FX Networks East Coast">
     <title lang="en">The Hangover Part III</title>
