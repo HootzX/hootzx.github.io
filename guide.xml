@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ABC (WABC) New York, NY">
+    <display-name lang="en">ABC</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/abc.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
   <channel id="FX Networks East Coast">
     <display-name lang="en">FX</display-name>
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" />
@@ -15,6 +20,197 @@
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/fxx.png" />
     <url>http://www.tvtv.us</url>
   </channel>
+  <programme start="20201111000000 +0000" stop="20201111003000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Jeopardy!</title>
+    <desc lang="en">Three contestants ask questions for a variety of trivia answers to win cash prizes.</desc>
+  </programme>
+  <programme start="20201111003000 +0000" stop="20201111010000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Contestants must decipher an unknown word or phrase using letters of the alphabet.</desc>
+  </programme>
+  <programme start="20201111010000 +0000" stop="20201111030000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">The Bachelorette</title>
+    <desc lang="en">Tayshia Adams begins her journey to find love as the new 'Bachelorette.'.</desc>
+  </programme>
+  <programme start="20201111030000 +0000" stop="20201111040000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Country Strong 2020: Countdown to the CMA Awards</title>
+    <desc lang="en">We take an unfiltered look at how current events have impacted the country music community and how the industry is moving forward.</desc>
+  </programme>
+  <programme start="20201111040000 +0000" stop="20201111043500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at 11:00 p.m.</title>
+  </programme>
+  <programme start="20201111043500 +0000" stop="20201111053500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Guests include Gillian Anderson, Emmanuel Acho and Ty Dolla $ign.</desc>
+  </programme>
+  <programme start="20201111053500 +0000" stop="20201111060500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+  </programme>
+  <programme start="20201111060500 +0000" stop="20201111070500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Live With Kelly and Ryan</title>
+    <desc lang="en">Kelly and Ryan speak with Kate Mara about the series 'A Teacher.'.</desc>
+  </programme>
+  <programme start="20201111070500 +0000" stop="20201111073500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Jeopardy!</title>
+    <desc lang="en">Three contestants ask questions for a variety of trivia answers to win cash prizes.</desc>
+  </programme>
+  <programme start="20201111073500 +0000" stop="20201111080500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+  </programme>
+  <programme start="20201111080500 +0000" stop="20201111090000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">NFL Hall of Famer and 'Good Morning America' co-host Michael Strahan discusses his new HBO docuseries, 'The Cost of Winning.' Plus, stories of resilience, including MMA fighter Vince Murdock on his remarkable return to the UFC cage.</desc>
+  </programme>
+  <programme start="20201111090000 +0000" stop="20201111093000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">America This Morning</title>
+    <desc lang="en">This morning newscast features top headlines, sports results and financial news.</desc>
+  </programme>
+  <programme start="20201111093000 +0000" stop="20201111110000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+  </programme>
+  <programme start="20201111110000 +0000" stop="20201111120000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+  </programme>
+  <programme start="20201111120000 +0000" stop="20201111140000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Kaley Cuoco, Thomas Rhett, Lauren Akins and Jamie Oliver visit.</desc>
+  </programme>
+  <programme start="20201111140000 +0000" stop="20201111150000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Live With Kelly and Ryan</title>
+    <desc lang="en">Reba McEntire talks with Kelly and Ryan about 'The 54th Annual CMA Awards.'.</desc>
+  </programme>
+  <programme start="20201111150000 +0000" stop="20201111160000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">Actress Kate Mara and creator Hannah Fidell from FX on Hulu series, 'A Teacher.' Plus, 'The Sopranos' Lorraine Bracco on renovating a rundown Sicilian home for HGTV's 'My Big Italian Adventure.'.</desc>
+  </programme>
+  <programme start="20201111160000 +0000" stop="20201111170000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">The View</title>
+    <desc lang="en">Ice-T pays tribute to Veteran's Day with a powerful story.</desc>
+  </programme>
+  <programme start="20201111170000 +0000" stop="20201111173000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">News.</desc>
+  </programme>
+  <programme start="20201111173000 +0000" stop="20201111190000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">New York City Veterans Day Salute</title>
+  </programme>
+  <programme start="20201111190000 +0000" stop="20201111200000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Guests include Angelica Ross.</desc>
+  </programme>
+  <programme start="20201111200000 +0000" stop="20201111210000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Relationships are placed under duress when fate gathers the sick at General Hospital.</desc>
+  </programme>
+  <programme start="20201111210000 +0000" stop="20201111220000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News First at 4:00 p.m.</title>
+  </programme>
+  <programme start="20201111220000 +0000" stop="20201111230000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at 5:00 p.m.</title>
+  </programme>
+  <programme start="20201111230000 +0000" stop="20201111233000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at 6:00 p.m.</title>
+  </programme>
+  <programme start="20201111233000 +0000" stop="20201112000000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+  </programme>
+  <programme start="20201112000000 +0000" stop="20201112003000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Jeopardy!</title>
+    <desc lang="en">Three contestants ask questions for a variety of trivia answers to win cash prizes.</desc>
+  </programme>
+  <programme start="20201112003000 +0000" stop="20201112010000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">On the Red Carpet at the CMA Awards</title>
+    <desc lang="en">George Pennacchio talks with CMA Award nominees with a look back at country stars' first acceptance speeches and past fashions.</desc>
+  </programme>
+  <programme start="20201112010000 +0000" stop="20201112040000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">The 54th Annual CMA Awards</title>
+    <desc lang="en">Celebrate the biggest artists in country music.</desc>
+  </programme>
+  <programme start="20201112040000 +0000" stop="20201112043500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at 11:00 p.m.</title>
+  </programme>
+  <programme start="20201112043500 +0000" stop="20201112053500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Guests include Dr. Phil McGraw, John King and Maren Morris.</desc>
+  </programme>
+  <programme start="20201112053500 +0000" stop="20201112060500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+  </programme>
+  <programme start="20201112060500 +0000" stop="20201112070500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Live With Kelly and Ryan</title>
+    <desc lang="en">Reba McEntire talks with Kelly and Ryan about 'The 54th Annual CMA Awards.'.</desc>
+  </programme>
+  <programme start="20201112070500 +0000" stop="20201112073500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Jeopardy!</title>
+    <desc lang="en">Three contestants ask questions for a variety of trivia answers to win cash prizes.</desc>
+  </programme>
+  <programme start="20201112073500 +0000" stop="20201112080500 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+  </programme>
+  <programme start="20201112080500 +0000" stop="20201112090000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">Actress Kate Mara and creator Hannah Fidell from FX on Hulu series, 'A Teacher.' Plus, 'The Sopranos' Lorraine Bracco on renovating a rundown Sicilian home for HGTV's 'My Big Italian Adventure.'.</desc>
+  </programme>
+  <programme start="20201112090000 +0000" stop="20201112093000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">America This Morning</title>
+    <desc lang="en">This morning newscast features top headlines, sports results and financial news.</desc>
+  </programme>
+  <programme start="20201112093000 +0000" stop="20201112110000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+  </programme>
+  <programme start="20201112110000 +0000" stop="20201112120000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+  </programme>
+  <programme start="20201112120000 +0000" stop="20201112140000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Henry Golding, and Laurence Fishburne.</desc>
+  </programme>
+  <programme start="20201112140000 +0000" stop="20201112150000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Live With Kelly and Ryan</title>
+    <desc lang="en">Kelly and Ryan interview actress Chandra Wilson about 'Grey’s Anatomy.'.</desc>
+  </programme>
+  <programme start="20201112150000 +0000" stop="20201112160000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">Inside a reporter's notebook: looking at the people and moments that captivated our attention, and the stories that forever inspired, touched and changed the lives of both reporters and viewers.</desc>
+  </programme>
+  <programme start="20201112160000 +0000" stop="20201112170000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">The View</title>
+    <desc lang="en">Guests include Michael Strahan.</desc>
+  </programme>
+  <programme start="20201112170000 +0000" stop="20201112180000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">News.</desc>
+  </programme>
+  <programme start="20201112180000 +0000" stop="20201112190000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Guests include Liraz Charhi.</desc>
+  </programme>
+  <programme start="20201112190000 +0000" stop="20201112200000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">The Rachael Ray Show</title>
+    <desc lang="en">Chef Scott Conant puts an Italian twist on pumpkin parmigiana; Rachael cooks up a German-style pasta dish – spaetzle with spiced red cabbage. Plus, an 80-year-old firefighter is getting a heartwarming surprise.</desc>
+  </programme>
+  <programme start="20201112200000 +0000" stop="20201112210000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Relationships are placed under duress when fate gathers the sick at General Hospital.</desc>
+  </programme>
+  <programme start="20201112210000 +0000" stop="20201112220000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News First at 4:00 p.m.</title>
+  </programme>
+  <programme start="20201112220000 +0000" stop="20201112230000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at 5:00 p.m.</title>
+  </programme>
+  <programme start="20201112230000 +0000" stop="20201112233000 +0000" channel="ABC (WABC) New York, NY">
+    <title lang="en">Eyewitness News at 6:00 p.m.</title>
+  </programme>
   <programme start="20201111010000 +0000" stop="20201111030000 +0000" channel="FX Networks East Coast">
     <title lang="en">The Hangover Part III</title>
     <desc lang="en">Friends must track down an escaped prisoner to exchange for one of their own.</desc>
