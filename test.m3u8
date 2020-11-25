@@ -2,8 +2,6 @@
 
 #EXTINF:-1,CBS 4 WFOR (US)
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1,FOX 56 WOLF (US)
-https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
 #EXTINF:-1,NBC 6 WTVJ (US)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,PBS WPSU (US)
