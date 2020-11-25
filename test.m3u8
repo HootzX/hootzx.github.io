@@ -2,6 +2,8 @@
 
 #EXTINF:-1,CBS 4 WFOR (US)
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1,FOX 56 WOLF (US)
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
 #EXTINF:-1,NBC 6 WTVJ (US)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,PBS WPSU (US)
@@ -43,8 +45,6 @@ http://sportportal4.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master_Mai
 #EXTINF:-1,TV1 (NZ)
 http://livestreams.e-cast.co.nz/tv1.m3u8
 #EXTINF:-1,TV2 (NZ)
-http://livestreams.e-cast.co.nz/tv2.m3u8
-#EXTINF:-1,Three (NZ)
 http://livestreams.e-cast.co.nz/three.m3u8
 #EXTINF:-1,Duke (NZ)
 http://livestreams.e-cast.co.nz/duke.m3u8
@@ -52,9 +52,5 @@ http://livestreams.e-cast.co.nz/duke.m3u8
 http://livestreams.e-cast.co.nz/hgtv.m3u8
 #EXTINF:-1,Prime (NZ)
 http://livestreams.e-cast.co.nz/prime.m3u8
-#EXTINF:-1,TV1+1 (NZ)
-http://livestreams.e-cast.co.nz/tv1p1.m3u8
 #EXTINF:-1,TV2+1 (NZ)
 http://livestreams.e-cast.co.nz/tv2p1.m3u8
-#EXTINF:-1,Duke+1 (NZ)
-http://livestreams.e-cast.co.nz/dukep1.m3u8
