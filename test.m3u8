@@ -36,6 +36,8 @@ http://sportportal4.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master_Mai
 http://livestreams.e-cast.co.nz/tv1.m3u8
 #EXTINF:-1,TV2 (NZ)
 http://livestreams.e-cast.co.nz/tv2.m3u8
+#EXTINF:-1,Three (NZ)
+http://livestreams.e-cast.co.nz/three.m3u8
 #EXTINF:-1,Duke (NZ)
 http://livestreams.e-cast.co.nz/duke.m3u8
 #EXTINF:-1,HGTV (NZ)
