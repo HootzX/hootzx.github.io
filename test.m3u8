@@ -27,6 +27,12 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1,Epix 2 East (US)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png",BBC One (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-logo="https://s3.postimg.org/3oa6ilk4j/BBC_Two_HD_svg.png",BBC Two (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF:-1 tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png",BBC Four (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png",ITV 1 (UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png",ITV 4 (UK)
