@@ -33,6 +33,8 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
 #EXTINF:-1 tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png",BBC Four (UK)
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+#EXTINF:-1 tvg-logo="https://s3.postimg.org/hxublo6hv/bbc_news_logo.png",BBC News (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png",ITV 1 (UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png",ITV 4 (UK)
