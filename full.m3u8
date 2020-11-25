@@ -1,0 +1,118 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="tv.101406040645" tvg-logo="https://i.mjh.nz/.images/tv.101406040645.png" tvg-chno="10",TEN
+https://i.mjh.nz/au/Brisbane/tv.101406040645.m3u8
+#EXTINF:-1 tvg-id="tv.101406040648" tvg-logo="https://i.mjh.nz/.images/tv.101406040648.png" tvg-chno="11",10 Peach
+https://i.mjh.nz/au/Brisbane/tv.101406040648.m3u8
+#EXTINF:-1 tvg-id="tv.101406040641" tvg-logo="https://i.mjh.nz/.images/tv.101406040647.png" tvg-chno="12",10 Bold
+https://i.mjh.nz/au/Brisbane/tv.101406040647.m3u8
+#EXTINF:-1 tvg-id="tv.101406040643" tvg-logo="https://i.mjh.nz/.images/tv.101406040643.png" tvg-chno="13",10 Shake
+https://i.mjh.nz/au/Brisbane/tv.101406040643.m3u8
+#EXTINF:-1 tvg-id="tv.101305040540" tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-chno="7",Seven
+https://i.mjh.nz/au/Brisbane/tv.101305040540.m3u8
+#EXTINF:-1 tvg-id="tv.101305040543" tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-chno="73",7mate
+https://i.mjh.nz/au/Brisbane/tv.101305040543.m3u8
+#EXTINF:-1 tvg-id="tv.101305040545" tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-chno="76",7flix
+https://i.mjh.nz/au/Brisbane/tv.101305040545.m3u8
+#EXTINF:-1 tvg-id="tv.101305040542" tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-chno="72",7TWO
+https://i.mjh.nz/au/Brisbane/tv.101305040542.m3u8
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" tvg-chno="32",SBS World Movies
+https://i.mjh.nz/au/Brisbane/tv.320203000307.m3u8
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" tvg-chno="31",SBS VICELAND
+https://i.mjh.nz/au/Brisbane/tv.320203000303.m3u8
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" tvg-chno="33",SBS Food
+https://i.mjh.nz/au/Brisbane/tv.320203000304.m3u8
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" tvg-chno="3",SBS
+https://i.mjh.nz/au/Brisbane/tv.320203000301.m3u8
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" tvg-chno="34",NITV
+https://i.mjh.nz/au/Brisbane/tv.320203000305.m3u8
+#EXTINF:-1 tvg-id="tv.101204000401" tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-chno="9",Channel 9
+https://i.mjh.nz/au/Brisbane/tv.101204000401.m3u8
+#EXTINF:-1 tvg-id="tv.10120400040C" tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png" tvg-chno="96",9Rush Brisbane
+https://i.mjh.nz/au/Brisbane/tv.10120400040C.m3u8
+#EXTINF:-1 tvg-id="tv.101204000407" tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-chno="94",9Life
+https://i.mjh.nz/au/Brisbane/tv.101204000407.m3u8
+#EXTINF:-1 tvg-id="tv.10120400040B" tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-chno="93",9Go!
+https://i.mjh.nz/au/Brisbane/tv.10120400040B.m3u8
+#EXTINF:-1 tvg-id="tv.10120400040A" tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-chno="92",9Gem
+https://i.mjh.nz/au/Brisbane/tv.10120400040A.m3u8
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" tvg-chno="24",ABC News
+https://c.mjh.nz/101002210220/
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" tvg-chno="23",ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" tvg-chno="22",ABC KIDS
+https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" tvg-chno="22",ABC Comedy
+https://c.mjh.nz/abc2/
+#EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/.images/tv.101002410241.png" tvg-chno="2",ABC
+https://c.mjh.nz/101002410241/
+
+
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" tvg-chno="101",TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" tvg-chno="102",TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="https://i.mjh.nz/.images/tv.11.png" tvg-chno="103",Three
+https://i.mjh.nz/nz/tv.11.m3u8
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" tvg-chno="104",Bravo
+https://i.mjh.nz/nz/tv.12.m3u8
+#EXTINF:-1 tvg-id="tv.28" tvg-logo="https://i.mjh.nz/.images/tv.28.png" tvg-chno="110",PRIME
+http://livestreams.e-cast.co.nz/prime.m3u8
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="111",The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8
+#EXTINF:-1 tvg-id="tv.37" tvg-logo="https://i.mjh.nz/.images/tv.37.png" tvg-chno="112",Choice TV
+https://i.mjh.nz/nz/tv.37.m3u8
+#EXTINF:-1 tvg-id="tv.55" tvg-logo="https://i.mjh.nz/.images/tv.55.png" tvg-chno="113",DUKE
+https://i.mjh.nz/nz/tv.55.m3u8
+#EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="114",BREEZE TV
+https://i.mjh.nz/nz/tv.68.m3u8
+#EXTINF:-1 tvg-id="tv.58" tvg-logo="https://i.mjh.nz/.images/tv.58.png" tvg-chno="117",HGTV
+https://i.mjh.nz/nz/tv.58.m3u8
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" tvg-chno="121",TVNZ 2 +1
+http://livestreams.e-cast.co.nz/tv2p1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://s3.postimg.org/hxublo6hv/bbc_news_logo.png" tvg-chno="150",BBC News (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1 tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" tvg-chno="151",BBC One (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-logo="https://s3.postimg.org/3oa6ilk4j/BBC_Two_HD_svg.png" tvg-chno="152",BBC Two (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF:-1 tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png" tvg-chno="154",BBC Four (UK)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" tvg-chno="161",ITV 1 (UK)
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" tvg-chno="164",ITV 4 (UK)
+http://sportportal4.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master_Main1800.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="172",CBS 4 WFOR (US)
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 tvg-chno="174",NBC 6 WTVJ (US)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-chno="175",PBS WPSU (US)
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+#EXTINF:-1 tvg-chno="180",HBO East (US)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 tvg-chno="181",HBO West (US)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1 tvg-chno="182",Cinemax East (US)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 tvg-chno="183",Cinemax West (US)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 tvg-chno="184",Showtime East (US)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 tvg-chno="185",Showtime West (US)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 tvg-chno="186",STARZ West (US)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 tvg-chno="187",STARZ East (US)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF:-1 tvg-chno="188",Epix East (US)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 tvg-chno="189",Epix 2 East (US)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
