@@ -20,7 +20,7 @@ https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 #EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/starz.png" tvg-chno="316",STARZ West (US)
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/starz.png" tvg-chno="317",STARZ Encore (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/starz_encore.png" tvg-chno="317",STARZ Encore (US)
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/epix.png" tvg-chno="318",Epix East (US)
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
