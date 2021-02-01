@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/CBS_4_WFOR.png" tvg-chno="302",CBS 4 WFOR (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/CBS_4_WFOR.png" tvg-chno="302",CBS 4 WFOR (US)
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/NBC_6_WTVJ.png" tvg-chno="304",NBC 6 WTVJ (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/NBC_6_WTVJ.png" tvg-chno="304",NBC 6 WTVJ (US)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/PBS_WPSU.png" tvg-chno="305",PBS WPSU (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/PBS_WPSU.png" tvg-chno="305",PBS WPSU (US)
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/hbo_east.png" tvg-chno="310",HBO East (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/hbo_east.png" tvg-chno="310",HBO East (US)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/hbo_west.png" tvg-chno="311",HBO West (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/hbo_west.png" tvg-chno="311",HBO West (US)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/cinemax.png" tvg-chno="312",Cinemax East (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/cinemax.png" tvg-chno="312",Cinemax East (US)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/cinemax.png" tvg-chno="313",Cinemax West (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/cinemax.png" tvg-chno="313",Cinemax West (US)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/showtime_east.png" tvg-chno="314",Showtime East (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/showtime_east.png" tvg-chno="314",Showtime East (US)
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/showtime_west.png" tvg-chno="315",Showtime West (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/showtime_west.png" tvg-chno="315",Showtime West (US)
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/starz.png" tvg-chno="316",STARZ West (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/starz.png" tvg-chno="316",STARZ West (US)
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/starz.png" tvg-chno="317",STARZ Encore (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/starz.png" tvg-chno="317",STARZ Encore (US)
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/epix.png" tvg-chno="318",Epix East (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/epix.png" tvg-chno="318",Epix East (US)
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-#EXTINF:-1 tvg-logo="http://hootzx.github.com/logos/epix2.png" tvg-chno="319",Epix 2 East (US)
+#EXTINF:-1 tvg-logo="http://hootzx.github.io/logos/epix2.png" tvg-chno="319",Epix 2 East (US)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
