@@ -55,16 +55,16 @@ https://i.mjh.nz/au/Brisbane/tv.10120400040B.m3u8
 https://i.mjh.nz/au/Brisbane/tv.10120400040A.m3u8
 
 #EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" tvg-chno="24",ABC News
-https://c.mjh.nz/101002210220/
+https://i.mjh.nz/au/Brisbane/tv.101002210220.m3u8
 
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" tvg-chno="23",ABC Me
-https://c.mjh.nz/101002210224/
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 
 #EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" tvg-chno="22",ABC KIDS
-https://c.mjh.nz/101002210222/
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 
-#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" tvg-chno="22",ABC Comedy
-https://c.mjh.nz/abc2/
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" tvg-chno="22",ABC Plus
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 
 #EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/.images/tv.101002410241.png" tvg-chno="2",ABC
-https://c.mjh.nz/101002410241/
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
