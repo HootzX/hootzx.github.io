@@ -68,3 +68,6 @@ https://c.mjh.nz/abc2/
 
 #EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/.images/tv.101002410241.png" tvg-chno="2",ABC
 https://c.mjh.nz/101002410241/
+
+#EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png" tvg-chno="0",Olympics Channel
+https://i.mjh.nz/au/Brisbane/tv.7olympics.m3u8
