@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="mjh-10-qld" channel-id="mjh-10-qld" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10",TEN
+https://i.mjh.nz/10-qld.m3u8
+
 #EXTINF:-1 tvg-id="tv.101406040645" tvg-logo="https://i.mjh.nz/.images/tv.101406040645.png" tvg-chno="10",TEN
 https://i.mjh.nz/au/Brisbane/tv.101406040645.m3u8
 
