@@ -33,17 +33,17 @@ https://i.mjh.nz/sbs-world-movies.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-world-watch" channel-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35",SBS World Watch
 https://i.mjh.nz/sbs-world-watch.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7-syd" channel-id="mjh-7-syd" tvg-logo="https://i.mjh.nz/.images/7-syd.png" tvg-chno="7",Seven
-https://i.mjh.nz/7-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-7-syd1" channel-id="mjh-7-syd1" tvg-logo="https://i.mjh.nz/.images/7-syd1.png" tvg-chno="7" group-title="Sydney" ,Seven
+https://i.mjh.nz/7-syd1.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7two-syd" channel-id="mjh-7two-syd" tvg-logo="https://i.mjh.nz/.images/7two-syd.png" tvg-chno="72",7TWO
-https://i.mjh.nz/7two-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-7-syd2" channel-id="mjh-7-syd2" tvg-logo="https://i.mjh.nz/.images/7-syd2.png" tvg-chno="72" group-title="Sydney" ,7two
+https://i.mjh.nz/7-syd2.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7mate-syd" channel-id="mjh-7mate-syd" tvg-logo="https://i.mjh.nz/.images/7mate-syd.png" tvg-chno="73",7mate
-https://i.mjh.nz/7mate-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-7-syd3" channel-id="mjh-7-syd3" tvg-logo="https://i.mjh.nz/.images/7-syd3.png" tvg-chno="73" group-title="Sydney" ,7mate
+https://i.mjh.nz/7-syd3.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7flix-syd" channel-id="mjh-7flix-syd" tvg-logo="https://i.mjh.nz/.images/7flix-syd.png" tvg-chno="76",7flix
-https://i.mjh.nz/7flix-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-7-syd6" channel-id="mjh-7-syd6" tvg-logo="https://i.mjh.nz/.images/7-syd6.png" tvg-chno="76" group-title="Sydney" ,7flix
+https://i.mjh.nz/7-syd6.m3u8
 
 #EXTINF:-1 tvg-id="mjh-ch9-syd" channel-id="mjh-ch9-syd" tvg-logo="https://i.mjh.nz/.images/ch9-syd.png" tvg-chno="9",Nine
 https://i.mjh.nz/ch9-syd.m3u8
