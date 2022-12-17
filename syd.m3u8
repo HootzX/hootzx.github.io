@@ -45,20 +45,20 @@ https://i.mjh.nz/7-syd3.m3u8
 #EXTINF:-1 tvg-id="mjh-7-syd6" channel-id="mjh-7-syd6" tvg-logo="https://i.mjh.nz/.images/7-syd6.png" tvg-chno="276" group-title="Sydney" ,7flix
 https://i.mjh.nz/7-syd6.m3u8
 
-#EXTINF:-1 tvg-id="mjh-ch9-syd" channel-id="mjh-ch9-syd" tvg-logo="https://i.mjh.nz/.images/ch9-syd.png" tvg-chno="209",Nine
-https://i.mjh.nz/ch9-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-channel-9-nsw" channel-id="mjh-channel-9-nsw" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="209" group-title="Sydney" ,Channel 9
+https://i.mjh.nz/channel-9-nsw.m3u8
 
-#EXTINF:-1 tvg-id="mjh-gem-syd" channel-id="mjh-gem-syd" tvg-logo="https://i.mjh.nz/.images/gem-syd.png" tvg-chno="292",9Gem
-https://i.mjh.nz/gem-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-gem-nsw" channel-id="mjh-gem-nsw" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="292" group-title="Sydney" ,9Gem
+https://i.mjh.nz/gem-nsw.m3u8
 
-#EXTINF:-1 tvg-id="mjh-go-syd" channel-id="mjh-go-syd" tvg-logo="https://i.mjh.nz/.images/go-syd.png" tvg-chno="293",9Go!
-https://i.mjh.nz/go-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-go-nsw" channel-id="mjh-go-nsw" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="293" group-title="Sydney" ,9Go!
+https://i.mjh.nz/go-nsw.m3u8
 
-#EXTINF:-1 tvg-id="mjh-life-syd" channel-id="mjh-life-syd" tvg-logo="https://i.mjh.nz/.images/life-syd.png" tvg-chno="294",9Life
-https://i.mjh.nz/life-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-life-nsw" channel-id="mjh-life-nsw" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="294" group-title="Sydney" ,9Life
+https://i.mjh.nz/life-nsw.m3u8
 
-#EXTINF:-1 tvg-id="mjh-rush-syd" channel-id="mjh-rush-syd" tvg-logo="https://i.mjh.nz/.images/rush-syd.png" tvg-chno="296",9Rush
-https://i.mjh.nz/rush-syd.m3u8
+#EXTINF:-1 tvg-id="mjh-rush-nsw" channel-id="mjh-rush-nsw" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="296" group-title="Sydney" ,9Rush
+https://i.mjh.nz/rush-nsw.m3u8
 
 #EXTINF:-1 tvg-id="mjh-10-nsw" channel-id="mjh-10-nsw" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="210",10
 https://i.mjh.nz/10-nsw.m3u8
