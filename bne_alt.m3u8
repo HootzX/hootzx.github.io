@@ -24,6 +24,9 @@ https://i.mjh.nz/7-bri3.m3u8
 #EXTINF:-1 tvg-id="mjh-7-bri6" channel-id="mjh-7-bri6" tvg-logo="https://i.mjh.nz/.images/7-bri6.png" tvg-chno="476" group-title="Brisbane" ,7flix
 https://i.mjh.nz/7-bri6.m3u8
 
+#EXTINF:-1 channel-id="mjh-7-bnet" tvg-id="mjh-7-bnet" tvg-logo="https://i.mjh.nz/.images/7-bnet.png" tvg-chno="475" group-title="Au" ,7Bravo
+https://i.mjh.nz/7-bnet.m3u8
+
 #EXTINF:-1 tvg-id="mjh-sbs" channel-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="403",SBS
 https://i.mjh.nz/sbs.m3u8
 
