@@ -1,53 +1,53 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Undefined" tvg-chno="501",BBC One
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Undefined" tvg-chno="901",BBC One
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Undefined" tvg-chno="502",BBC Two
+#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Undefined" tvg-chno="902",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Undefined" tvg-chno="504",BBC Four
+#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Undefined" tvg-chno="904",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News" tvg-chno="500",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News" tvg-chno="900",BBC News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment" tvg-chno="510",Absolute Reality by WE TV
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment" tvg-chno="910",Absolute Reality by WE TV
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/adult-swim.png" group-title="Undefined" tvg-chno="511",Adult Swim East
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/adult-swim.png" group-title="Undefined" tvg-chno="911",Adult Swim East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/adult-swim.png" group-title="Undefined" tvg-chno="512",Adult Swim West
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/adult-swim.png" group-title="Undefined" tvg-chno="912",Adult Swim West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment" tvg-chno="513",AMC Presents
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment" tvg-chno="913",AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AMGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Amgtv.PNG" group-title="Family" tvg-chno="514",AMG TV
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Amgtv.PNG" group-title="Family" tvg-chno="914",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="AWEEncore.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482f63cfbf071d6151ca95" group-title="General" tvg-chno="515",AWE Encore
+#EXTINF:-1 tvg-id="AWEEncore.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482f63cfbf071d6151ca95" group-title="General" tvg-chno="915",AWE Encore
 https://aweencore-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General" tvg-chno="516",AXS TV Now
+#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General" tvg-chno="916",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="Comedy" tvg-chno="517",Comedy Channel
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="Comedy" tvg-chno="917",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Comet.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" group-title="Entertainment" tvg-chno="518",Comet
+#EXTINF:-1 tvg-id="Comet.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" group-title="Entertainment" tvg-chno="918",Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 tvg-id="FuseEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="Undefined" tvg-chno="519",Fuse East
+#EXTINF:-1 tvg-id="FuseEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="Undefined" tvg-chno="919",Fuse East
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Kerrang.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" group-title="Undefined" tvg-chno="520",Kerrang
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" group-title="Undefined" tvg-chno="920",Kerrang
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1 tvg-id="Redbox1Spotlight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="Undefined" tvg-chno="521",Redbox 1: Spotlight
+#EXTINF:-1 tvg-id="Redbox1Spotlight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="Undefined" tvg-chno="921",Redbox 1: Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Redbox2Comedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Comedy" tvg-chno="522",Redbox 2: Comedy
+#EXTINF:-1 tvg-id="Redbox2Comedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Comedy" tvg-chno="922",Redbox 2: Comedy
 https://comedy-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Redbox3Rush.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="Undefined" tvg-chno="523",Redbox 3: Rush
+#EXTINF:-1 tvg-id="Redbox3Rush.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="Undefined" tvg-chno="923",Redbox 3: Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General" tvg-chno="524",TBS East
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General" tvg-chno="924",TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General" tvg-chno="525",TBS West
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General" tvg-chno="925",TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Classic" tvg-chno="526",TCM East
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Classic" tvg-chno="926",TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TCMWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Classic" tvg-chno="527",TCM West
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Classic" tvg-chno="927",TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General" tvg-chno="528",TNT East
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General" tvg-chno="928",TNT East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General" tvg-chno="529",TNT West
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General" tvg-chno="929",TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TruTVEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="Undefined" tvg-chno="530",TruTV East
+#EXTINF:-1 tvg-id="TruTVEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="Undefined" tvg-chno="930",TruTV East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TruTVWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/e3KabTt.jpg" group-title="Undefined" tvg-chno="531",TruTV West
+#EXTINF:-1 tvg-id="TruTVWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/e3KabTt.jpg" group-title="Undefined" tvg-chno="931",TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
