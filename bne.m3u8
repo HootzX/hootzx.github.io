@@ -46,10 +46,10 @@ https://i.mjh.nz/sbs-world-movies.m3u8
 https://i.mjh.nz/sbs-world-watch.m3u8
 
 #EXTINF:-1 tvg-id="mjh-channel-9-qld" channel-id="mjh-channel-9-qld" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Brisbane" ,Channel 9
-https://i.mjh.nz/channel-9-qld.m3u8
+https://i.mjh.nz/.hls/channel-9-qld.m3u8
 
 #EXTINF:-1 tvg-id="mjh-gem-qld" channel-id="mjh-gem-qld" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Brisbane" ,9Gem
-https://i.mjh.nz/gem-qld.m3u8
+https://i.mjh.nz/.hls/gem-qld.m3u8
 
 #EXTINF:-1 tvg-id="mjh-go-qld" channel-id="mjh-go-qld" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Brisbane" ,9Go!
 https://i.mjh.nz/go-qld.m3u8
